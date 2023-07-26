@@ -13,7 +13,7 @@
 
 - ISC
 
-  [温州台风网](http://www.wztf121.com/)'s Data (from [istrongcloud.com](http://www.istrongcloud.com/))
+  [温州台风网](http://www.wztf121.com/) (Data from [istrongcloud.com](http://www.istrongcloud.com/))
 
 - NII
 
