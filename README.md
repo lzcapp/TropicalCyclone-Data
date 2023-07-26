@@ -14,3 +14,7 @@
 - ISC
 
   [温州台风网](http://www.wztf121.com/)'s Data (from [istrongcloud.com](http://www.istrongcloud.com/))
+
+- NII
+
+  [National Institute of Informatics (NII)](https://www.nii.ac.jp/)
