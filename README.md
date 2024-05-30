@@ -3,7 +3,7 @@
 
 - CMABST
 
-  [中国气象局热带气旋资料中心 | 最佳路径数据集](https://tcdata.typhoon.org.cn/zjljsjj_zlhq.html)
+  [中国气象局热带气旋资料中心 | 最佳路径数据集](https://tcdata.typhoon.org.cn/zjljsjj.html)
   
     > 使用本数据集的部分或全部数据时，请注明出处(tcdata.typhoon.org.cn)，并引用以下文献：
     > 
