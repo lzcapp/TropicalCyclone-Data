@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Style id="redIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/red3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/green3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/blue3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="yellowIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/yellow3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="magentaIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/magenta3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="cyanIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/cyan3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/gray3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Typhoon 202005 (JANGMI)</name>
+      <Folder>
+        <name>Typhoon 202005 (JANGMI) Observation Information</name>
+        <Placemark>
+          <name>[202005] 08/06 18UTC</name>
+          <TimeStamp>
+            <when>2020-08-06T18:00:00Z</when>
+          </TimeStamp>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080618.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(14.2 N, 127.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=06&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-06 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>127.5,14.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/07 00UTC</name>
+          <TimeSpan>
+            <begin>2020-08-06T18:01:00Z</begin>
+            <end>2020-08-07T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080700.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(14.7 N, 127.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=07&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-07 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>127.3,14.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/07 06UTC</name>
+          <TimeSpan>
+            <begin>2020-08-07T00:01:00Z</begin>
+            <end>2020-08-07T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080706.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.2 N, 127.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=07&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-07 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>127.2,15.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/07 12UTC</name>
+          <TimeSpan>
+            <begin>2020-08-07T06:01:00Z</begin>
+            <end>2020-08-07T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080712.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.7 N, 127 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=07&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-07 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>127,15.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/07 18UTC</name>
+          <TimeSpan>
+            <begin>2020-08-07T12:01:00Z</begin>
+            <end>2020-08-07T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080718.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(16.3 N, 127 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=07&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-07 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>127,16.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/08 00UTC</name>
+          <TimeSpan>
+            <begin>2020-08-07T18:01:00Z</begin>
+            <end>2020-08-08T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080800.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17 N, 126.9 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=08&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-08 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.9,17,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/08 06UTC</name>
+          <TimeSpan>
+            <begin>2020-08-08T00:01:00Z</begin>
+            <end>2020-08-08T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080806.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.1 N, 126.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=08&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-08 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.6,18.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/08 12UTC</name>
+          <TimeSpan>
+            <begin>2020-08-08T06:01:00Z</begin>
+            <end>2020-08-08T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080812.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(19.4 N, 126.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=08&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-08 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.4,19.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/08 18UTC</name>
+          <TimeSpan>
+            <begin>2020-08-08T12:01:00Z</begin>
+            <end>2020-08-08T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080818.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(20.8 N, 126.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=08&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-08 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.4,20.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/09 00UTC</name>
+          <TimeSpan>
+            <begin>2020-08-08T18:01:00Z</begin>
+            <end>2020-08-09T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080900.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(23 N, 126.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=09&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-09 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.4,23,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/09 06UTC</name>
+          <TimeSpan>
+            <begin>2020-08-09T00:01:00Z</begin>
+            <end>2020-08-09T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080906.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(25.3 N, 126.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=09&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-09 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.2,25.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/09 12UTC</name>
+          <TimeSpan>
+            <begin>2020-08-09T06:01:00Z</begin>
+            <end>2020-08-09T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080912.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(27.8 N, 126.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=09&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-09 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.3,27.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/09 18UTC</name>
+          <TimeSpan>
+            <begin>2020-08-09T12:01:00Z</begin>
+            <end>2020-08-09T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080918.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(29.5 N, 126.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=09&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-09 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.8,29.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/09 21UTC</name>
+          <TimeSpan>
+            <begin>2020-08-09T18:01:00Z</begin>
+            <end>2020-08-09T21:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820080921.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(30.8 N, 127.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=09&amp;hour=21&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-09 21:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>127.3,30.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/10 00UTC</name>
+          <TimeSpan>
+            <begin>2020-08-09T21:01:00Z</begin>
+            <end>2020-08-10T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081000.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(32.1 N, 127.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=10&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-10 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>127.7,32.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/10 03UTC</name>
+          <TimeSpan>
+            <begin>2020-08-10T00:01:00Z</begin>
+            <end>2020-08-10T03:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081003.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(33.3 N, 128.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=10&amp;hour=03&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-10 03:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>128.1,33.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/10 06UTC</name>
+          <TimeSpan>
+            <begin>2020-08-10T03:01:00Z</begin>
+            <end>2020-08-10T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081006.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(34.6 N, 128.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=10&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-10 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>128.5,34.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/10 09UTC</name>
+          <TimeSpan>
+            <begin>2020-08-10T06:01:00Z</begin>
+            <end>2020-08-10T09:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081009.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(35.8 N, 129.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=10&amp;hour=09&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-10 09:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>129.2,35.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/10 12UTC</name>
+          <TimeSpan>
+            <begin>2020-08-10T09:01:00Z</begin>
+            <end>2020-08-10T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081012.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(37.2 N, 130 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=10&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-10 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>130,37.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/10 18UTC</name>
+          <TimeSpan>
+            <begin>2020-08-10T12:01:00Z</begin>
+            <end>2020-08-10T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081018.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(40 N, 132.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=10&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-10 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>132.2,40,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/11 00UTC</name>
+          <TimeSpan>
+            <begin>2020-08-10T18:01:00Z</begin>
+            <end>2020-08-11T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081100.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(43 N, 135.9 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=11&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-11 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>135.9,43,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/11 06UTC</name>
+          <TimeSpan>
+            <begin>2020-08-11T00:01:00Z</begin>
+            <end>2020-08-11T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081106.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(44.3 N, 139.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=11&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-11 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>139.5,44.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/11 12UTC</name>
+          <TimeSpan>
+            <begin>2020-08-11T06:01:00Z</begin>
+            <end>2020-08-11T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081112.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(45.9 N, 143.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=11&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-11 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>143.4,45.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/11 18UTC</name>
+          <TimeSpan>
+            <begin>2020-08-11T12:01:00Z</begin>
+            <end>2020-08-11T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081118.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(47 N, 147.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=11&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-11 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>147.6,47,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/12 00UTC</name>
+          <TimeSpan>
+            <begin>2020-08-11T18:01:00Z</begin>
+            <end>2020-08-12T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081200.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(47.8 N, 151.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=12&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-12 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>151.5,47.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/12 06UTC</name>
+          <TimeSpan>
+            <begin>2020-08-12T00:01:00Z</begin>
+            <end>2020-08-12T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081206.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(48.3 N, 153.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=12&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-12 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>153.6,48.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/12 12UTC</name>
+          <TimeSpan>
+            <begin>2020-08-12T06:01:00Z</begin>
+            <end>2020-08-12T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081212.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(48.8 N, 155.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=12&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-12 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>155.3,48.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/12 18UTC</name>
+          <TimeSpan>
+            <begin>2020-08-12T12:01:00Z</begin>
+            <end>2020-08-12T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081218.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(49 N, 157.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=12&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-12 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>157.6,49,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/13 00UTC</name>
+          <TimeSpan>
+            <begin>2020-08-12T18:01:00Z</begin>
+            <end>2020-08-13T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081300.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(49.4 N, 158.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=13&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-13 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>158.7,49.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/13 06UTC</name>
+          <TimeSpan>
+            <begin>2020-08-13T00:01:00Z</begin>
+            <end>2020-08-13T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081306.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(49.5 N, 159.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=13&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-13 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>159.6,49.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/13 12UTC</name>
+          <TimeSpan>
+            <begin>2020-08-13T06:01:00Z</begin>
+            <end>2020-08-13T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081312.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(49.4 N, 160.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=13&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-13 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>160.1,49.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/13 18UTC</name>
+          <TimeSpan>
+            <begin>2020-08-13T12:01:00Z</begin>
+            <end>2020-08-13T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081318.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(49.4 N, 161.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=13&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-13 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>161.1,49.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/14 00UTC</name>
+          <TimeSpan>
+            <begin>2020-08-13T18:01:00Z</begin>
+            <end>2020-08-14T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081400.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(49.3 N, 162.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=14&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-14 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>162.1,49.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/14 06UTC</name>
+          <TimeSpan>
+            <begin>2020-08-14T00:01:00Z</begin>
+            <end>2020-08-14T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081406.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(49.7 N, 162.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=14&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-14 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>162.1,49.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/14 12UTC</name>
+          <TimeSpan>
+            <begin>2020-08-14T06:01:00Z</begin>
+            <end>2020-08-14T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081412.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(49.3 N, 162.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=14&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-14 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>162.5,49.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202005] 08/14 18UTC</name>
+          <TimeSpan>
+            <begin>2020-08-14T12:01:00Z</begin>
+            <end>2020-08-14T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202005/1/128x128/HMW820081418.202005.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(49.1 N, 162.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2020&amp;month=08&amp;day=14&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2020-08-14 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202005.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202005 (JANGMI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>162.7,49.1,500</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>Typhoon 202005 (JANGMI) Track Information</name>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>cc779999</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>127.5,14.2,500 127.3,14.7,500 127.2,15.2,500 127,15.7,500 127,16.3,500 126.9,17,500 126.6,18.1,500 126.4,19.4,500 126.4,20.8,500 126.4,23,500 126.2,25.3,500 126.3,27.8,500 126.8,29.5,500 127.3,30.8,500 127.7,32.1,500 128.1,33.3,500 128.5,34.6,500 129.2,35.8,500 130,37.2,500 132.2,40,500 135.9,43,500 139.5,44.3,500 143.4,45.9,500 147.6,47,500 151.5,47.8,500 153.6,48.3,500 155.3,48.8,500 157.6,49,500 158.7,49.4,500 159.6,49.5,500 160.1,49.4,500 161.1,49.4,500 162.1,49.3,500 162.1,49.7,500 162.5,49.3,500 162.7,49.1,500</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

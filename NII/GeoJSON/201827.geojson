@@ -1,0 +1,148 @@
+{
+   "features" : [
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               112.5,
+               10
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 1008,
+            "display_time" : "2018-11-16 18:00 UTC",
+            "time" : 1542391200,
+            "class" : 2,
+            "wind" : 0
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "class" : 2,
+            "wind" : 0,
+            "display_time" : "2018-11-17 00:00 UTC",
+            "pressure" : 1008,
+            "time" : 1542412800
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               111.8,
+               10.6
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               111.3,
+               10.9
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 1004,
+            "display_time" : "2018-11-17 06:00 UTC",
+            "time" : 1542434400,
+            "class" : 3,
+            "wind" : 35
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               110.7,
+               11.2
+            ]
+         },
+         "properties" : {
+            "pressure" : 1004,
+            "display_time" : "2018-11-17 12:00 UTC",
+            "time" : 1542456000,
+            "class" : 3,
+            "wind" : 35
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "time" : 1542477600,
+            "display_time" : "2018-11-17 18:00 UTC",
+            "pressure" : 1006,
+            "wind" : 35,
+            "class" : 3
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               110.1,
+               11.4
+            ]
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "wind" : 0,
+            "class" : 2,
+            "time" : 1542499200,
+            "pressure" : 1008,
+            "display_time" : "2018-11-18 00:00 UTC"
+         },
+         "geometry" : {
+            "coordinates" : [
+               109.5,
+               11.6
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2018-11-18 06:00 UTC",
+            "pressure" : 1008,
+            "time" : 1542520800,
+            "class" : 2,
+            "wind" : 0
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               108.9,
+               11.7
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "time" : 1542542400,
+            "display_time" : "2018-11-18 12:00 UTC",
+            "pressure" : 1010,
+            "wind" : 0,
+            "class" : 2
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               108.2,
+               11.8
+            ],
+            "type" : "Point"
+         }
+      }
+   ],
+   "properties" : {
+      "display_name" : "Typhoon 201827 (TORAJI)",
+      "name" : "TORAJI",
+      "id" : "201827",
+      "url" : "https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201827.html.en",
+      "basin" : "wnp"
+   },
+   "type" : "FeatureCollection"
+}

@@ -1,0 +1,658 @@
+{
+   "type" : "FeatureCollection",
+   "properties" : {
+      "basin" : "wnp",
+      "id" : "200605",
+      "name" : "KAEMI",
+      "display_name" : "Typhoon 200605 (KAEMI)",
+      "url" : "https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200605.html.en"
+   },
+   "features" : [
+      {
+         "properties" : {
+            "pressure" : 1006,
+            "time" : 1153159200,
+            "display_time" : "2006-07-17 18:00 UTC",
+            "wind" : 0,
+            "class" : 2
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               147.8,
+               8.9
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "class" : 2,
+            "wind" : 0,
+            "pressure" : 1006,
+            "time" : 1153180800,
+            "display_time" : "2006-07-18 00:00 UTC"
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               147.2,
+               9.4
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               146,
+               9.7
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "time" : 1153202400,
+            "display_time" : "2006-07-18 06:00 UTC",
+            "pressure" : 1004,
+            "class" : 2,
+            "wind" : 0
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               144.5,
+               10.2
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "class" : 2,
+            "wind" : 0,
+            "display_time" : "2006-07-18 12:00 UTC",
+            "time" : 1153224000,
+            "pressure" : 1004
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               143.3,
+               10.4
+            ]
+         },
+         "properties" : {
+            "wind" : 0,
+            "class" : 2,
+            "pressure" : 1004,
+            "time" : 1153245600,
+            "display_time" : "2006-07-18 18:00 UTC"
+         }
+      },
+      {
+         "properties" : {
+            "pressure" : 1004,
+            "time" : 1153267200,
+            "display_time" : "2006-07-19 00:00 UTC",
+            "class" : 2,
+            "wind" : 0
+         },
+         "geometry" : {
+            "coordinates" : [
+               142,
+               11
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "class" : 2,
+            "wind" : 0,
+            "display_time" : "2006-07-19 06:00 UTC",
+            "time" : 1153288800,
+            "pressure" : 1002
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               140.8,
+               11.7
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "display_time" : "2006-07-19 12:00 UTC",
+            "time" : 1153310400,
+            "pressure" : 998,
+            "class" : 3,
+            "wind" : 35
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               140,
+               12
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "display_time" : "2006-07-19 18:00 UTC",
+            "time" : 1153332000,
+            "pressure" : 994,
+            "wind" : 40,
+            "class" : 3
+         },
+         "geometry" : {
+            "coordinates" : [
+               139,
+               12.1
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               138.4,
+               12.6
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2006-07-20 00:00 UTC",
+            "time" : 1153353600,
+            "pressure" : 992,
+            "wind" : 50,
+            "class" : 4
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               137.7,
+               13.5
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "time" : 1153375200,
+            "display_time" : "2006-07-20 06:00 UTC",
+            "pressure" : 985,
+            "wind" : 55,
+            "class" : 4
+         }
+      },
+      {
+         "properties" : {
+            "display_time" : "2006-07-20 12:00 UTC",
+            "time" : 1153396800,
+            "pressure" : 980,
+            "wind" : 60,
+            "class" : 4
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               136.4,
+               14
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               135.4,
+               14.7
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "time" : 1153418400,
+            "display_time" : "2006-07-20 18:00 UTC",
+            "pressure" : 975,
+            "class" : 5,
+            "wind" : 65
+         }
+      },
+      {
+         "properties" : {
+            "wind" : 70,
+            "class" : 5,
+            "pressure" : 970,
+            "time" : 1153440000,
+            "display_time" : "2006-07-21 00:00 UTC"
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               134.1,
+               15.4
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               132.8,
+               15.8
+            ]
+         },
+         "properties" : {
+            "pressure" : 965,
+            "time" : 1153461600,
+            "display_time" : "2006-07-21 06:00 UTC",
+            "wind" : 75,
+            "class" : 5
+         }
+      },
+      {
+         "properties" : {
+            "pressure" : 960,
+            "display_time" : "2006-07-21 12:00 UTC",
+            "time" : 1153483200,
+            "class" : 5,
+            "wind" : 80
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               131.7,
+               16.1
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "time" : 1153504800,
+            "display_time" : "2006-07-21 18:00 UTC",
+            "pressure" : 960,
+            "wind" : 80,
+            "class" : 5
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               130.8,
+               16.4
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "wind" : 80,
+            "class" : 5,
+            "pressure" : 960,
+            "time" : 1153526400,
+            "display_time" : "2006-07-22 00:00 UTC"
+         },
+         "geometry" : {
+            "coordinates" : [
+               129.7,
+               16.6
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "display_time" : "2006-07-22 06:00 UTC",
+            "time" : 1153548000,
+            "pressure" : 960,
+            "class" : 5,
+            "wind" : 80
+         },
+         "geometry" : {
+            "coordinates" : [
+               129.1,
+               16.9
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "class" : 5,
+            "wind" : 80,
+            "display_time" : "2006-07-22 12:00 UTC",
+            "time" : 1153569600,
+            "pressure" : 960
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               128.8,
+               17.1
+            ]
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               128.1,
+               18
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "wind" : 80,
+            "class" : 5,
+            "pressure" : 960,
+            "display_time" : "2006-07-22 18:00 UTC",
+            "time" : 1153591200
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               127.5,
+               18.5
+            ]
+         },
+         "properties" : {
+            "pressure" : 960,
+            "display_time" : "2006-07-23 00:00 UTC",
+            "time" : 1153612800,
+            "class" : 5,
+            "wind" : 80
+         }
+      },
+      {
+         "properties" : {
+            "pressure" : 960,
+            "time" : 1153634400,
+            "display_time" : "2006-07-23 06:00 UTC",
+            "class" : 5,
+            "wind" : 80
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               126.5,
+               19.4
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "wind" : 75,
+            "class" : 5,
+            "time" : 1153656000,
+            "display_time" : "2006-07-23 12:00 UTC",
+            "pressure" : 965
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               125.5,
+               20.1
+            ]
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               124.5,
+               20.5
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "time" : 1153677600,
+            "display_time" : "2006-07-23 18:00 UTC",
+            "pressure" : 965,
+            "wind" : 75,
+            "class" : 5
+         }
+      },
+      {
+         "properties" : {
+            "class" : 5,
+            "wind" : 70,
+            "pressure" : 970,
+            "display_time" : "2006-07-24 00:00 UTC",
+            "time" : 1153699200
+         },
+         "geometry" : {
+            "coordinates" : [
+               123.8,
+               20.8
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               122.7,
+               21.6
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "wind" : 70,
+            "class" : 5,
+            "time" : 1153720800,
+            "display_time" : "2006-07-24 06:00 UTC",
+            "pressure" : 970
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               121.3,
+               22.3
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "time" : 1153742400,
+            "display_time" : "2006-07-24 12:00 UTC",
+            "pressure" : 975,
+            "class" : 5,
+            "wind" : 65
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               120.3,
+               23.1
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 985,
+            "time" : 1153764000,
+            "display_time" : "2006-07-24 18:00 UTC",
+            "class" : 4,
+            "wind" : 60
+         }
+      },
+      {
+         "properties" : {
+            "pressure" : 985,
+            "display_time" : "2006-07-25 00:00 UTC",
+            "time" : 1153785600,
+            "wind" : 55,
+            "class" : 4
+         },
+         "geometry" : {
+            "coordinates" : [
+               119.6,
+               23.6
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               118.8,
+               24.2
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2006-07-25 06:00 UTC",
+            "time" : 1153807200,
+            "pressure" : 985,
+            "wind" : 50,
+            "class" : 4
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               117.6,
+               24.3
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2006-07-25 12:00 UTC",
+            "time" : 1153828800,
+            "pressure" : 990,
+            "wind" : 45,
+            "class" : 3
+         }
+      },
+      {
+         "properties" : {
+            "class" : 3,
+            "wind" : 40,
+            "pressure" : 990,
+            "display_time" : "2006-07-25 18:00 UTC",
+            "time" : 1153850400
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               116.6,
+               24.4
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "properties" : {
+            "wind" : 0,
+            "class" : 2,
+            "pressure" : 992,
+            "time" : 1153872000,
+            "display_time" : "2006-07-26 00:00 UTC"
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               116,
+               24.8
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "display_time" : "2006-07-26 06:00 UTC",
+            "time" : 1153893600,
+            "pressure" : 994,
+            "class" : 2,
+            "wind" : 0
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               115.1,
+               24.9
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               114.6,
+               25.1
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "display_time" : "2006-07-26 12:00 UTC",
+            "time" : 1153915200,
+            "pressure" : 996,
+            "class" : 2,
+            "wind" : 0
+         }
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               113.9,
+               25.2
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "pressure" : 998,
+            "time" : 1153936800,
+            "display_time" : "2006-07-26 18:00 UTC",
+            "class" : 2,
+            "wind" : 0
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               113.2,
+               25
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2006-07-27 00:00 UTC",
+            "time" : 1153958400,
+            "pressure" : 1000,
+            "wind" : 0,
+            "class" : 2
+         }
+      }
+   ]
+}

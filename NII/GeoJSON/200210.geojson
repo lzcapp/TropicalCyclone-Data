@@ -1,0 +1,97 @@
+{
+   "features" : [
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2002-07-20 06:00 UTC",
+            "pressure" : 1004,
+            "class" : 7,
+            "wind" : 0,
+            "time" : 1027144800
+         },
+         "geometry" : {
+            "coordinates" : [
+               180.4,
+               16.1
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "properties" : {
+            "wind" : 35,
+            "class" : 3,
+            "pressure" : 1002,
+            "time" : 1027166400,
+            "display_time" : "2002-07-20 12:00 UTC"
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               179.5,
+               15.8
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2002-07-20 18:00 UTC",
+            "time" : 1027188000,
+            "pressure" : 1002,
+            "class" : 3,
+            "wind" : 35
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               178.6,
+               16.5
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               178,
+               17.7
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2002-07-21 00:00 UTC",
+            "class" : 3,
+            "wind" : 35,
+            "pressure" : 1002,
+            "time" : 1027209600
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               177,
+               19
+            ]
+         },
+         "properties" : {
+            "display_time" : "2002-07-21 06:00 UTC",
+            "time" : 1027231200,
+            "pressure" : 1008,
+            "wind" : 0,
+            "class" : 2
+         },
+         "type" : "Feature"
+      }
+   ],
+   "properties" : {
+      "display_name" : "Typhoon 200210 (KALMAEGI)",
+      "id" : "200210",
+      "basin" : "wnp",
+      "url" : "https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/200210.html.en",
+      "name" : "KALMAEGI"
+   },
+   "type" : "FeatureCollection"
+}

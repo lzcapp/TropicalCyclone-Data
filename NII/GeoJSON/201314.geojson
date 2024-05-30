@@ -1,0 +1,63 @@
+{
+   "features" : [
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               182.3,
+               17
+            ]
+         },
+         "properties" : {
+            "display_time" : "2013-08-19 00:00 UTC",
+            "class" : 7,
+            "pressure" : 1000,
+            "time" : 1376870400,
+            "wind" : 35
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               180,
+               17.5
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2013-08-19 06:00 UTC",
+            "class" : 3,
+            "pressure" : 1000,
+            "wind" : 35,
+            "time" : 1376892000
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               179.2,
+               17.5
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2013-08-19 12:00 UTC",
+            "pressure" : 1004,
+            "class" : 2,
+            "wind" : 0,
+            "time" : 1376913600
+         }
+      }
+   ],
+   "properties" : {
+      "display_name" : "Typhoon 201314 (UNALA)",
+      "id" : "201314",
+      "name" : "UNALA",
+      "url" : "https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/201314.html.en",
+      "basin" : "wnp"
+   },
+   "type" : "FeatureCollection"
+}

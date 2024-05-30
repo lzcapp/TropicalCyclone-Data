@@ -1,0 +1,165 @@
+{
+   "properties" : {
+      "basin" : "wnp",
+      "url" : "https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/199022.html.en",
+      "name" : "IRA",
+      "id" : "199022",
+      "display_name" : "Typhoon 199022 (IRA)"
+   },
+   "features" : [
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               114.8,
+               12.3
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "time" : 654804000,
+            "pressure" : 1002,
+            "wind" : 0,
+            "class" : 2,
+            "display_time" : "1990-10-01 18:00 UTC"
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "1990-10-02 00:00 UTC",
+            "class" : 2,
+            "wind" : 0,
+            "time" : 654825600,
+            "pressure" : 1002
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               113.7,
+               12.6
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "time" : 654847200,
+            "pressure" : 1000,
+            "display_time" : "1990-10-02 06:00 UTC",
+            "wind" : 0,
+            "class" : 2
+         },
+         "geometry" : {
+            "coordinates" : [
+               112.9,
+               13.2
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               111.8,
+               13.4
+            ]
+         },
+         "properties" : {
+            "pressure" : 996,
+            "time" : 654868800,
+            "class" : 3,
+            "wind" : 35,
+            "display_time" : "1990-10-02 12:00 UTC"
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "time" : 654890400,
+            "pressure" : 996,
+            "display_time" : "1990-10-02 18:00 UTC",
+            "class" : 3,
+            "wind" : 35
+         },
+         "geometry" : {
+            "coordinates" : [
+               110.5,
+               13.5
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "time" : 654912000,
+            "pressure" : 996,
+            "display_time" : "1990-10-03 00:00 UTC",
+            "class" : 3,
+            "wind" : 35
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               109,
+               13.6
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "pressure" : 998,
+            "time" : 654933600,
+            "class" : 3,
+            "wind" : 35,
+            "display_time" : "1990-10-03 06:00 UTC"
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               107.5,
+               13.8
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               106.2,
+               14
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "wind" : 0,
+            "class" : 2,
+            "display_time" : "1990-10-03 12:00 UTC",
+            "pressure" : 1000,
+            "time" : 654955200
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               105,
+               14.5
+            ]
+         },
+         "properties" : {
+            "wind" : 0,
+            "class" : 2,
+            "display_time" : "1990-10-03 18:00 UTC",
+            "time" : 654976800,
+            "pressure" : 1000
+         },
+         "type" : "Feature"
+      }
+   ],
+   "type" : "FeatureCollection"
+}

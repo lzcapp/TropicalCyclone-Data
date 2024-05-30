@@ -1,0 +1,199 @@
+{
+   "properties" : {
+      "url" : "http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/198001.html.en",
+      "name" : "CARMEN",
+      "display_name" : "Typhoon 198001 (CARMEN)",
+      "basin" : "wnp",
+      "id" : "198001"
+   },
+   "type" : "FeatureCollection",
+   "features" : [
+      {
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 1002,
+            "wind" : 0,
+            "time" : 323740800,
+            "display_time" : "1980-04-05 00:00 UTC",
+            "class" : 2
+         },
+         "geometry" : {
+            "coordinates" : [
+               180,
+               9.5
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 1000,
+            "wind" : 0,
+            "time" : 323762400,
+            "class" : 2,
+            "display_time" : "1980-04-05 06:00 UTC"
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               178.6,
+               10.4
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               177.7,
+               11.8
+            ]
+         },
+         "properties" : {
+            "pressure" : 994,
+            "wind" : 40,
+            "time" : 323784000,
+            "display_time" : "1980-04-05 12:00 UTC",
+            "class" : 3
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               177.3,
+               13.4
+            ]
+         },
+         "properties" : {
+            "pressure" : 992,
+            "wind" : 45,
+            "class" : 3,
+            "display_time" : "1980-04-05 18:00 UTC",
+            "time" : 323805600
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "1980-04-06 00:00 UTC",
+            "class" : 3,
+            "time" : 323827200,
+            "pressure" : 992,
+            "wind" : 45
+         },
+         "geometry" : {
+            "coordinates" : [
+               177.2,
+               14.8
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "wind" : 45,
+            "pressure" : 990,
+            "time" : 323848800,
+            "display_time" : "1980-04-06 06:00 UTC",
+            "class" : 3
+         },
+         "geometry" : {
+            "coordinates" : [
+               177.2,
+               15.8
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "properties" : {
+            "display_time" : "1980-04-06 12:00 UTC",
+            "class" : 4,
+            "time" : 323870400,
+            "pressure" : 985,
+            "wind" : 60
+         },
+         "geometry" : {
+            "coordinates" : [
+               177.6,
+               16.7
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               178.1,
+               17.6
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "time" : 323892000,
+            "class" : 4,
+            "display_time" : "1980-04-06 18:00 UTC",
+            "pressure" : 985,
+            "wind" : 55
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               178.9,
+               18.5
+            ]
+         },
+         "properties" : {
+            "wind" : 45,
+            "pressure" : 990,
+            "class" : 3,
+            "display_time" : "1980-04-07 00:00 UTC",
+            "time" : 323913600
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               179.8,
+               19.5
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "wind" : 45,
+            "pressure" : 992,
+            "class" : 3,
+            "display_time" : "1980-04-07 06:00 UTC",
+            "time" : 323935200
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "time" : 323956800,
+            "display_time" : "1980-04-07 12:00 UTC",
+            "class" : 3,
+            "pressure" : 992,
+            "wind" : 45
+         },
+         "geometry" : {
+            "coordinates" : [
+               180.2,
+               19.9
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      }
+   ]
+}

@@ -1,0 +1,165 @@
+{
+   "features" : [
+      {
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 1000,
+            "time" : -361929600,
+            "class" : 2,
+            "display_time" : "1958-07-14 00:00 UTC",
+            "wind" : 0
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               118.7,
+               19.1
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               118.5,
+               18.9
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "wind" : 0,
+            "time" : -361908000,
+            "class" : 2,
+            "display_time" : "1958-07-14 06:00 UTC",
+            "pressure" : 1000
+         }
+      },
+      {
+         "properties" : {
+            "pressure" : 998,
+            "wind" : 0,
+            "display_time" : "1958-07-14 12:00 UTC",
+            "class" : 2,
+            "time" : -361886400
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               118.5,
+               18.6
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               118.3,
+               18.4
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 996,
+            "wind" : 0,
+            "class" : 2,
+            "time" : -361864800,
+            "display_time" : "1958-07-14 18:00 UTC"
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               118,
+               17.6
+            ]
+         },
+         "properties" : {
+            "pressure" : 990,
+            "time" : -361843200,
+            "class" : 9,
+            "display_time" : "1958-07-15 00:00 UTC",
+            "wind" : 0
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "class" : 9,
+            "time" : -361821600,
+            "display_time" : "1958-07-15 06:00 UTC",
+            "wind" : 0,
+            "pressure" : 985
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               118,
+               17.5
+            ]
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 985,
+            "display_time" : "1958-07-15 12:00 UTC",
+            "class" : 9,
+            "time" : -361800000,
+            "wind" : 0
+         },
+         "geometry" : {
+            "coordinates" : [
+               118.6,
+               18.3
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "properties" : {
+            "pressure" : 990,
+            "time" : -361778400,
+            "class" : 9,
+            "display_time" : "1958-07-15 18:00 UTC",
+            "wind" : 0
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               119.5,
+               19
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "wind" : 0,
+            "display_time" : "1958-07-16 00:00 UTC",
+            "time" : -361756800,
+            "class" : 2,
+            "pressure" : 996
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               119.5,
+               20.5
+            ]
+         }
+      }
+   ],
+   "properties" : {
+      "name" : "BETTY",
+      "basin" : "wnp",
+      "url" : "http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/195812.html.en",
+      "id" : "195812",
+      "display_name" : "Typhoon 195812 (BETTY)"
+   },
+   "type" : "FeatureCollection"
+}

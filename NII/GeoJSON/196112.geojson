@@ -1,0 +1,46 @@
+{
+   "properties" : {
+      "id" : "196112",
+      "url" : "http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/196112.html.en",
+      "basin" : "wnp",
+      "name" : "NO-NAME",
+      "display_name" : "Typhoon 196112 (NO-NAME)"
+   },
+   "type" : "FeatureCollection",
+   "features" : [
+      {
+         "type" : "Feature",
+         "properties" : {
+            "time" : -265658400,
+            "pressure" : 992,
+            "class" : 9,
+            "display_time" : "1961-08-01 06:00 UTC",
+            "wind" : 0
+         },
+         "geometry" : {
+            "coordinates" : [
+               130,
+               28.7
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               130.5,
+               30.2
+            ]
+         },
+         "properties" : {
+            "time" : -265636800,
+            "pressure" : 986,
+            "class" : 9,
+            "display_time" : "1961-08-01 12:00 UTC",
+            "wind" : 0
+         },
+         "type" : "Feature"
+      }
+   ]
+}

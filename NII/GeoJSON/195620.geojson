@@ -1,0 +1,63 @@
+{
+   "type" : "FeatureCollection",
+   "features" : [
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "1956-11-16 00:00 UTC",
+            "pressure" : 995,
+            "class" : 9,
+            "wind" : 0,
+            "time" : -414201600
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               124,
+               18
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               123.4,
+               18.2
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "pressure" : 995,
+            "display_time" : "1956-11-16 06:00 UTC",
+            "wind" : 0,
+            "time" : -414180000,
+            "class" : 9
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               123.2,
+               18
+            ]
+         },
+         "properties" : {
+            "time" : -414158400,
+            "wind" : 0,
+            "class" : 9,
+            "display_time" : "1956-11-16 12:00 UTC",
+            "pressure" : 1002
+         },
+         "type" : "Feature"
+      }
+   ],
+   "properties" : {
+      "basin" : "wnp",
+      "id" : "195620",
+      "name" : "MARY",
+      "url" : "http://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/195620.html.en",
+      "display_name" : "Typhoon 195620 (MARY)"
+   }
+}

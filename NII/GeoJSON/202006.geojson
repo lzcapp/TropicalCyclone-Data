@@ -1,0 +1,182 @@
+{
+   "type" : "FeatureCollection",
+   "properties" : {
+      "display_name" : "Typhoon 202006 (MEKKHALA)",
+      "basin" : "wnp",
+      "name" : "MEKKHALA",
+      "id" : "202006",
+      "url" : "https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202006.html.en"
+   },
+   "features" : [
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               118.2,
+               15.1
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "time" : 1596931200,
+            "class" : 2,
+            "wind" : 0,
+            "display_time" : "2020-08-09 00:00 UTC",
+            "pressure" : 1002
+         }
+      },
+      {
+         "properties" : {
+            "time" : 1596952800,
+            "class" : 2,
+            "wind" : 0,
+            "pressure" : 1000,
+            "display_time" : "2020-08-09 06:00 UTC"
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               118.3,
+               16
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               118.4,
+               17
+            ]
+         },
+         "properties" : {
+            "time" : 1596974400,
+            "class" : 2,
+            "wind" : 0,
+            "pressure" : 1002,
+            "display_time" : "2020-08-09 12:00 UTC"
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               118.5,
+               18.1
+            ]
+         },
+         "properties" : {
+            "wind" : 0,
+            "pressure" : 1002,
+            "display_time" : "2020-08-09 18:00 UTC",
+            "time" : 1596996000,
+            "class" : 2
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               118.6,
+               19.2
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "class" : 3,
+            "time" : 1597017600,
+            "pressure" : 1000,
+            "display_time" : "2020-08-10 00:00 UTC",
+            "wind" : 35
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               118.6,
+               20.4
+            ]
+         },
+         "properties" : {
+            "time" : 1597039200,
+            "class" : 3,
+            "wind" : 40,
+            "pressure" : 998,
+            "display_time" : "2020-08-10 06:00 UTC"
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "pressure" : 996,
+            "display_time" : "2020-08-10 12:00 UTC",
+            "wind" : 45,
+            "class" : 3,
+            "time" : 1597060800
+         },
+         "geometry" : {
+            "coordinates" : [
+               118.6,
+               21.6
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "wind" : 50,
+            "pressure" : 992,
+            "display_time" : "2020-08-10 18:00 UTC",
+            "time" : 1597082400,
+            "class" : 4
+         },
+         "geometry" : {
+            "coordinates" : [
+               118.3,
+               22.9
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "class" : 3,
+            "time" : 1597104000,
+            "pressure" : 996,
+            "display_time" : "2020-08-11 00:00 UTC",
+            "wind" : 45
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               117.7,
+               24.2
+            ]
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "display_time" : "2020-08-11 06:00 UTC",
+            "pressure" : 1004,
+            "wind" : 0,
+            "class" : 2,
+            "time" : 1597125600
+         },
+         "geometry" : {
+            "coordinates" : [
+               117.3,
+               25.6
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature"
+      }
+   ]
+}

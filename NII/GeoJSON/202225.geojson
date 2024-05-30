@@ -1,0 +1,199 @@
+{
+   "properties" : {
+      "name" : "PAKHAR",
+      "url" : "https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202225.html.en",
+      "display_name" : "Typhoon 202225 (PAKHAR)",
+      "id" : "202225",
+      "basin" : "wnp"
+   },
+   "type" : "FeatureCollection",
+   "features" : [
+      {
+         "type" : "Feature",
+         "properties" : {
+            "class" : 2,
+            "wind" : 0,
+            "time" : 1670630400,
+            "display_time" : "2022-12-10 00:00 UTC",
+            "pressure" : 1004
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               124.7,
+               14
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "class" : 2,
+            "time" : 1670652000,
+            "wind" : 0,
+            "display_time" : "2022-12-10 06:00 UTC",
+            "pressure" : 1002
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               124.1,
+               14.8
+            ]
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2022-12-10 12:00 UTC",
+            "time" : 1670673600,
+            "wind" : 0,
+            "class" : 2,
+            "pressure" : 1004
+         },
+         "geometry" : {
+            "coordinates" : [
+               124.2,
+               15.8
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               124.6,
+               16.3
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 1004,
+            "display_time" : "2022-12-10 18:00 UTC",
+            "class" : 2,
+            "time" : 1670695200,
+            "wind" : 0
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               125.2,
+               16.9
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 1004,
+            "display_time" : "2022-12-11 00:00 UTC",
+            "class" : 2,
+            "wind" : 0,
+            "time" : 1670716800
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 1002,
+            "time" : 1670738400,
+            "wind" : 0,
+            "class" : 2,
+            "display_time" : "2022-12-11 06:00 UTC"
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               126.1,
+               17.5
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "display_time" : "2022-12-11 12:00 UTC",
+            "wind" : 35,
+            "time" : 1670760000,
+            "class" : 3,
+            "pressure" : 1000
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               127,
+               18.2
+            ]
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 998,
+            "class" : 3,
+            "time" : 1670781600,
+            "wind" : 40,
+            "display_time" : "2022-12-11 18:00 UTC"
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               128.1,
+               19
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               129.3,
+               20
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 998,
+            "display_time" : "2022-12-12 00:00 UTC",
+            "class" : 3,
+            "time" : 1670803200,
+            "wind" : 40
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               131,
+               20.4
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 1002,
+            "display_time" : "2022-12-12 06:00 UTC",
+            "time" : 1670824800,
+            "wind" : 35,
+            "class" : 3
+         }
+      },
+      {
+         "properties" : {
+            "pressure" : 1006,
+            "class" : 6,
+            "wind" : 0,
+            "time" : 1670846400,
+            "display_time" : "2022-12-12 12:00 UTC"
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               131.5,
+               20.3
+            ]
+         }
+      }
+   ]
+}
