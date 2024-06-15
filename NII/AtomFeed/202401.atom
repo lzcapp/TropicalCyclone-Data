@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:dt="http://www.digital-typhoon.org/ns">
   <title>Digital Typhoon</title>
   <subtitle>Typhoon 202401 (EWINIAR) Best Track</subtitle>
-  <updated>2024-05-30T15:00:00+00:00</updated>
+  <updated>2024-05-30T18:00:00+00:00</updated>
   <rights>Copyright (C) 2001-2024 KITAMOTO Asanobu. All Rights Reserved.</rights>
   <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202401.html.en"/>
   <link rel="self" type="application/atom+xml" href="https://agora.ex.nii.ac.jp/digital-typhoon/atom/typhoon/wnp/202401.en.atom"/>
@@ -1253,6 +1253,26 @@
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
+    <dt:pressure>998</dt:pressure>
+    <dt:wind mps="20">40</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202401/en/2024-05-30T18:00:00+00:00</id>
+    <title>Typhoon 202401 (EWINIAR) : 2024-05-30 18:00 UTC</title>
+    <updated>2024-05-30T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924053018&amp;id=202401&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-05-30T18:00:00+00:00, Typhoon 202401 (EWINIAR) is located at (31.0N, 138.0E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
+    </content>
+    <geo:lat>31.0</geo:lat>
+    <geo:long>138.0</geo:long>
+    <georss:point>31.0 138.0</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>31.0 138.0</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
     <dt:pressure>998</dt:pressure>
     <dt:wind mps="20">40</dt:wind>
   </entry>

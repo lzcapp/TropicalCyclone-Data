@@ -1463,7 +1463,8 @@
             <end>2024-05-30T15:00:00Z</end>
           </TimeSpan>
           <description>&lt;table border="1" cellspacing="1"&gt;
-&lt;tr&gt;&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202401/1/128x128/HMW924053015.202401.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(30.5 N, 137.4 E)&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
@@ -1476,6 +1477,28 @@
             <tessellate>1</tessellate>
             <altitudeMode>absolute</altitudeMode>
             <coordinates>137.4,30.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202401] 05/30 18UTC</name>
+          <TimeSpan>
+            <begin>2024-05-30T15:01:00Z</begin>
+            <end>2024-05-30T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Extratropical Cyclone&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(31 N, 138 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=5&amp;day=30&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-05-30 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202401.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202401 (EWINIAR)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#magentaIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>138,31,500</coordinates>
           </Point>
         </Placemark>
       </Folder>
@@ -1492,7 +1515,7 @@
           <tessellate>1</tessellate>
           <extrude>0</extrude>
           <altitudeMode>clampToGround</altitudeMode>
-          <coordinates>134,6.5,500 133.3,7.4,500 132,7.1,500 131.5,7.1,500 130.9,7.4,500 130.2,7.6,500 129.7,8.1,500 129,8.6,500 129.1,8.7,500 128.8,9,500 128.5,9.2,500 127.9,9.5,500 127.1,9.9,500 126.4,10.4,500 125.6,11.2,500 124.9,11.7,500 123.8,12.3,500 123.3,12.5,500 122.8,12.7,500 122.5,12.8,500 122.2,12.9,500 121.9,13.2,500 121.2,13.5,500 121.8,13.7,500 121.6,14,500 121.5,14.1,500 121.7,14.3,500 121.9,14.6,500 122.2,14.9,500 122.4,15.2,500 122.5,15.5,500 122.6,15.7,500 122.8,15.8,500 123.1,16,500 123.4,16.1,500 123.9,16.4,500 124.2,16.7,500 124.4,17.2,500 124.5,17.5,500 124.9,17.9,500 125.4,18.3,500 125.9,18.9,500 126.5,19.4,500 127.2,20.1,500 127.8,20.6,500 128.6,21.6,500 129.3,22.2,500 130,23.2,500 130.7,24.3,500 131.6,24.9,500 132.2,25.6,500 132.5,26.1,500 132.8,26.4,500 133.2,26.7,500 134,27.1,500 134.7,27.3,500 134.9,27.5,500 135.2,28.4,500 135.6,28.9,500 136.2,29.2,500 136.7,29.6,500 137.4,30.5,500</coordinates>
+          <coordinates>134,6.5,500 133.3,7.4,500 132,7.1,500 131.5,7.1,500 130.9,7.4,500 130.2,7.6,500 129.7,8.1,500 129,8.6,500 129.1,8.7,500 128.8,9,500 128.5,9.2,500 127.9,9.5,500 127.1,9.9,500 126.4,10.4,500 125.6,11.2,500 124.9,11.7,500 123.8,12.3,500 123.3,12.5,500 122.8,12.7,500 122.5,12.8,500 122.2,12.9,500 121.9,13.2,500 121.2,13.5,500 121.8,13.7,500 121.6,14,500 121.5,14.1,500 121.7,14.3,500 121.9,14.6,500 122.2,14.9,500 122.4,15.2,500 122.5,15.5,500 122.6,15.7,500 122.8,15.8,500 123.1,16,500 123.4,16.1,500 123.9,16.4,500 124.2,16.7,500 124.4,17.2,500 124.5,17.5,500 124.9,17.9,500 125.4,18.3,500 125.9,18.9,500 126.5,19.4,500 127.2,20.1,500 127.8,20.6,500 128.6,21.6,500 129.3,22.2,500 130,23.2,500 130.7,24.3,500 131.6,24.9,500 132.2,25.6,500 132.5,26.1,500 132.8,26.4,500 133.2,26.7,500 134,27.1,500 134.7,27.3,500 134.9,27.5,500 135.2,28.4,500 135.6,28.9,500 136.2,29.2,500 136.7,29.6,500 137.4,30.5,500 138,31,500</coordinates>
         </LineString>
       </Placemark>
     </Folder>
