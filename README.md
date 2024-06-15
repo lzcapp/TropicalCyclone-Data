@@ -1,6 +1,6 @@
 # Tropical Cyclone Data
 
- ![GitHub repo size](https://img.shields.io/github/repo-size/lzcapp/TropicalCyclone-Data?style=for-the-badge)
+ ![GitHub repo size](https://img.shields.io/github/repo-size/lzcapp/TropicalCyclone-Data?style=for-the-badge) &ensp; ![GitHub Release](https://img.shields.io/github/v/release/lzcapp/TropicalCyclone-Data?style=for-the-badge)
 
 - CMABST
 
