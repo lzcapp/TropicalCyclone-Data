@@ -1,179 +1,94 @@
 {
    "type" : "FeatureCollection",
    "properties" : {
-      "name" : "SON-TINH",
       "display_name" : "Typhoon 202406 (SON-TINH)",
-      "basin" : "wnp",
       "id" : "202406",
+      "name" : "SON-TINH",
+      "basin" : "wnp",
       "url" : "https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202406.html.en"
    },
    "features" : [
       {
          "geometry" : {
             "coordinates" : [
-               153.3,
-               26.7
+               154.1,
+               26.5
             ],
             "type" : "Point"
          },
          "type" : "Feature",
          "properties" : {
-            "wind" : 30,
-            "pressure" : 1002,
             "class" : 2,
+            "time" : 1723291200,
             "display_time" : "2024-08-10 12:00 UTC",
-            "time" : 1723291200
-         }
-      },
-      {
-         "type" : "Feature",
-         "properties" : {
-            "class" : 2,
-            "time" : 1723302000,
-            "display_time" : "2024-08-10 15:00 UTC",
-            "wind" : 30,
-            "pressure" : 1002
-         },
-         "geometry" : {
-            "coordinates" : [
-               153.8,
-               26.7
-            ],
-            "type" : "Point"
-         }
-      },
-      {
-         "properties" : {
-            "time" : 1723312800,
-            "display_time" : "2024-08-10 18:00 UTC",
-            "class" : 2,
             "pressure" : 1000,
-            "wind" : 30
-         },
-         "type" : "Feature",
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [
-               154.3,
-               27.2
-            ]
+            "wind" : 0
          }
       },
       {
          "geometry" : {
             "type" : "Point",
             "coordinates" : [
-               154.9,
-               27.2
+               155,
+               26.8
             ]
          },
          "type" : "Feature",
          "properties" : {
-            "display_time" : "2024-08-10 21:00 UTC",
-            "time" : 1723323600,
+            "display_time" : "2024-08-10 18:00 UTC",
+            "wind" : 0,
+            "pressure" : 998,
             "class" : 2,
-            "pressure" : 1002,
-            "wind" : 30
+            "time" : 1723312800
          }
       },
       {
-         "type" : "Feature",
-         "properties" : {
-            "pressure" : 1002,
-            "wind" : 30,
-            "time" : 1723334400,
-            "display_time" : "2024-08-11 00:00 UTC",
-            "class" : 2
-         },
          "geometry" : {
+            "type" : "Point",
             "coordinates" : [
                155.1,
                27.4
-            ],
-            "type" : "Point"
-         }
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               155.2,
-               27.5
-            ],
-            "type" : "Point"
-         },
-         "type" : "Feature",
-         "properties" : {
-            "time" : 1723345200,
-            "display_time" : "2024-08-11 03:00 UTC",
-            "class" : 2,
-            "pressure" : 1000,
-            "wind" : 30
-         }
-      },
-      {
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [
-               155.2,
-               28.1
             ]
          },
          "type" : "Feature",
          "properties" : {
-            "class" : 2,
+            "time" : 1723334400,
+            "class" : 3,
+            "wind" : 35,
+            "pressure" : 996,
+            "display_time" : "2024-08-11 00:00 UTC"
+         }
+      },
+      {
+         "properties" : {
+            "pressure" : 996,
+            "wind" : 35,
             "display_time" : "2024-08-11 06:00 UTC",
             "time" : 1723356000,
-            "wind" : 30,
-            "pressure" : 998
-         }
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               155.2,
-               28.4
-            ],
-            "type" : "Point"
-         },
-         "type" : "Feature",
-         "properties" : {
-            "time" : 1723366800,
-            "display_time" : "2024-08-11 09:00 UTC",
-            "class" : 3,
-            "pressure" : 994,
-            "wind" : 35
-         }
-      },
-      {
-         "properties" : {
-            "pressure" : 994,
-            "wind" : 35,
-            "display_time" : "2024-08-11 12:00 UTC",
-            "time" : 1723377600,
             "class" : 3
          },
          "type" : "Feature",
          "geometry" : {
-            "type" : "Point",
             "coordinates" : [
-               154.8,
-               29.1
-            ]
+               155,
+               27.8
+            ],
+            "type" : "Point"
          }
       },
       {
-         "type" : "Feature",
          "properties" : {
-            "display_time" : "2024-08-11 15:00 UTC",
-            "time" : 1723388400,
+            "time" : 1723377600,
             "class" : 3,
             "pressure" : 994,
-            "wind" : 35
+            "wind" : 40,
+            "display_time" : "2024-08-11 12:00 UTC"
          },
+         "type" : "Feature",
          "geometry" : {
             "coordinates" : [
-               154.7,
-               29.5
+               154.5,
+               28.8
             ],
             "type" : "Point"
          }
@@ -181,11 +96,11 @@
       {
          "type" : "Feature",
          "properties" : {
-            "class" : 3,
             "display_time" : "2024-08-11 18:00 UTC",
-            "time" : 1723399200,
+            "pressure" : 996,
             "wind" : 35,
-            "pressure" : 994
+            "class" : 3,
+            "time" : 1723399200
          },
          "geometry" : {
             "type" : "Point",
@@ -196,242 +111,361 @@
          }
       },
       {
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [
-               154,
-               30.8
-            ]
-         },
+         "type" : "Feature",
          "properties" : {
-            "time" : 1723410000,
-            "display_time" : "2024-08-11 21:00 UTC",
-            "class" : 3,
-            "pressure" : 994,
-            "wind" : 35
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               153.1,
-               31.3
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
+            "pressure" : 998,
+            "wind" : 35,
             "display_time" : "2024-08-12 00:00 UTC",
             "time" : 1723420800,
-            "class" : 3,
-            "pressure" : 998,
-            "wind" : 35
+            "class" : 3
          },
-         "type" : "Feature"
+         "geometry" : {
+            "coordinates" : [
+               152.5,
+               31.5
+            ],
+            "type" : "Point"
+         }
       },
       {
          "properties" : {
             "class" : 3,
-            "time" : 1723431600,
-            "display_time" : "2024-08-12 03:00 UTC",
+            "time" : 1723442400,
+            "display_time" : "2024-08-12 06:00 UTC",
             "wind" : 35,
             "pressure" : 998
          },
          "type" : "Feature",
          "geometry" : {
             "coordinates" : [
-               152.4,
-               32.1
-            ],
-            "type" : "Point"
-         }
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                151.5,
                32.3
             ],
             "type" : "Point"
-         },
-         "properties" : {
-            "pressure" : 998,
-            "wind" : 35,
-            "display_time" : "2024-08-12 06:00 UTC",
-            "time" : 1723442400,
-            "class" : 3
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               151.2,
-               32.5
-            ],
-            "type" : "Point"
-         },
-         "type" : "Feature",
-         "properties" : {
-            "display_time" : "2024-08-12 09:00 UTC",
-            "time" : 1723453200,
-            "class" : 3,
-            "pressure" : 998,
-            "wind" : 35
          }
       },
       {
+         "properties" : {
+            "class" : 3,
+            "time" : 1723464000,
+            "display_time" : "2024-08-12 12:00 UTC",
+            "wind" : 35,
+            "pressure" : 998
+         },
+         "type" : "Feature",
          "geometry" : {
+            "type" : "Point",
             "coordinates" : [
                150.5,
                32.9
-            ],
-            "type" : "Point"
-         },
-         "type" : "Feature",
-         "properties" : {
-            "time" : 1723464000,
-            "display_time" : "2024-08-12 12:00 UTC",
-            "class" : 3,
-            "pressure" : 1000,
-            "wind" : 35
+            ]
          }
       },
       {
-         "properties" : {
-            "wind" : 35,
-            "pressure" : 1000,
-            "class" : 3,
-            "time" : 1723474800,
-            "display_time" : "2024-08-12 15:00 UTC"
-         },
-         "type" : "Feature",
          "geometry" : {
             "coordinates" : [
-               149.9,
-               33.3
+               149.2,
+               34.2
             ],
             "type" : "Point"
-         }
+         },
+         "properties" : {
+            "display_time" : "2024-08-12 18:00 UTC",
+            "pressure" : 998,
+            "wind" : 35,
+            "class" : 3,
+            "time" : 1723485600
+         },
+         "type" : "Feature"
       },
       {
          "geometry" : {
             "type" : "Point",
             "coordinates" : [
-               149.4,
-               34.2
+               147.8,
+               35.2
             ]
          },
          "properties" : {
-            "pressure" : 1000,
             "wind" : 35,
-            "display_time" : "2024-08-12 18:00 UTC",
-            "time" : 1723485600,
+            "pressure" : 1000,
+            "display_time" : "2024-08-13 00:00 UTC",
+            "time" : 1723507200,
             "class" : 3
          },
          "type" : "Feature"
       },
       {
+         "type" : "Feature",
          "properties" : {
-            "class" : 3,
-            "display_time" : "2024-08-12 21:00 UTC",
-            "time" : 1723496400,
             "wind" : 35,
-            "pressure" : 1002
+            "pressure" : 1000,
+            "display_time" : "2024-08-13 06:00 UTC",
+            "time" : 1723528800,
+            "class" : 3
          },
-         "type" : "Feature",
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [
-               148.5,
-               34.6
-            ]
-         }
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               147.8,
-               35.2
-            ],
-            "type" : "Point"
-         },
-         "type" : "Feature",
-         "properties" : {
-            "class" : 3,
-            "time" : 1723507200,
-            "display_time" : "2024-08-13 00:00 UTC",
-            "wind" : 35,
-            "pressure" : 1002
-         }
-      },
-      {
-         "properties" : {
-            "time" : 1723518000,
-            "display_time" : "2024-08-13 03:00 UTC",
-            "class" : 3,
-            "pressure" : 1002,
-            "wind" : 35
-         },
-         "type" : "Feature",
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [
-               147.2,
-               35.7
-            ]
-         }
-      },
-      {
          "geometry" : {
             "coordinates" : [
                146.7,
                36.1
             ],
             "type" : "Point"
-         },
-         "type" : "Feature",
-         "properties" : {
-            "time" : 1723528800,
-            "display_time" : "2024-08-13 06:00 UTC",
-            "class" : 3,
-            "pressure" : 1002,
-            "wind" : 35
          }
       },
       {
          "type" : "Feature",
          "properties" : {
-            "time" : 1723539600,
-            "display_time" : "2024-08-13 09:00 UTC",
-            "class" : 3,
-            "pressure" : 1002,
-            "wind" : 35
-         },
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [
-               146.1,
-               36.4
-            ]
-         }
-      },
-      {
-         "geometry" : {
-            "type" : "Point",
-            "coordinates" : [
-               146,
-               37
-            ]
-         },
-         "properties" : {
-            "display_time" : "2024-08-13 12:00 UTC",
             "time" : 1723550400,
             "class" : 2,
             "pressure" : 1004,
-            "wind" : 0
+            "wind" : 0,
+            "display_time" : "2024-08-13 12:00 UTC"
+         },
+         "geometry" : {
+            "coordinates" : [
+               146,
+               37
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2024-08-13 18:00 UTC",
+            "pressure" : 1006,
+            "wind" : 0,
+            "class" : 2,
+            "time" : 1723572000
+         },
+         "geometry" : {
+            "coordinates" : [
+               145.6,
+               38.7
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2024-08-14 00:00 UTC",
+            "wind" : 0,
+            "pressure" : 1006,
+            "class" : 2,
+            "time" : 1723593600
+         },
+         "geometry" : {
+            "coordinates" : [
+               145.7,
+               39.8
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "properties" : {
+            "wind" : 0,
+            "pressure" : 1006,
+            "display_time" : "2024-08-14 06:00 UTC",
+            "time" : 1723615200,
+            "class" : 2
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "coordinates" : [
+               146.5,
+               41.7
+            ],
+            "type" : "Point"
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               148,
+               43.4
+            ]
+         },
+         "properties" : {
+            "time" : 1723636800,
+            "class" : 2,
+            "pressure" : 1004,
+            "wind" : 0,
+            "display_time" : "2024-08-14 12:00 UTC"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               150.4,
+               44.6
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "pressure" : 1004,
+            "wind" : 0,
+            "display_time" : "2024-08-14 18:00 UTC",
+            "time" : 1723658400,
+            "class" : 2
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "wind" : 0,
+            "pressure" : 1002,
+            "display_time" : "2024-08-15 00:00 UTC",
+            "time" : 1723680000,
+            "class" : 6
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               154.7,
+               47.3
+            ]
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "class" : 6,
+            "time" : 1723701600,
+            "display_time" : "2024-08-15 06:00 UTC",
+            "wind" : 0,
+            "pressure" : 1000
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               157.7,
+               47.5
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               161,
+               47.6
+            ]
+         },
+         "properties" : {
+            "time" : 1723723200,
+            "class" : 6,
+            "wind" : 0,
+            "pressure" : 996,
+            "display_time" : "2024-08-15 12:00 UTC"
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "wind" : 0,
+            "pressure" : 992,
+            "display_time" : "2024-08-15 18:00 UTC",
+            "time" : 1723744800,
+            "class" : 6
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               164.4,
+               47
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               168.4,
+               45.7
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "pressure" : 990,
+            "wind" : 0,
+            "display_time" : "2024-08-16 00:00 UTC",
+            "time" : 1723766400,
+            "class" : 6
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2024-08-16 06:00 UTC",
+            "wind" : 0,
+            "pressure" : 988,
+            "class" : 6,
+            "time" : 1723788000
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               173.1,
+               45.8
+            ]
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "display_time" : "2024-08-16 12:00 UTC",
+            "pressure" : 986,
+            "wind" : 0,
+            "class" : 6,
+            "time" : 1723809600
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               176.3,
+               47.8
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               179,
+               50.9
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "class" : 6,
+            "time" : 1723831200,
+            "display_time" : "2024-08-16 18:00 UTC",
+            "wind" : 0,
+            "pressure" : 984
+         },
+         "type" : "Feature"
+      },
+      {
+         "properties" : {
+            "display_time" : "2024-08-17 00:00 UTC",
+            "pressure" : 978,
+            "wind" : 0,
+            "class" : 6,
+            "time" : 1723852800
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               180.9,
+               53.6
+            ]
+         }
       }
    ]
 }

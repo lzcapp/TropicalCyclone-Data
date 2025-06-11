@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:dt="http://www.digital-typhoon.org/ns">
   <title>Digital Typhoon</title>
   <subtitle>Typhoon 202409 (JONGDARI) Best Track</subtitle>
-  <updated>2024-08-20T12:00:00+00:00</updated>
+  <updated>2024-12-03T00:00:00Z</updated>
   <rights>Copyright (C) 2001-2024 KITAMOTO Asanobu. All Rights Reserved.</rights>
   <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202409.html.en"/>
   <link rel="self" type="application/atom+xml" href="https://agora.ex.nii.ac.jp/digital-typhoon/atom/typhoon/wnp/202409.en.atom"/>
@@ -17,43 +17,83 @@
     <uri>http://www.jma.go.jp/</uri>
   </contributor>
   <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-18T00:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-18 00:00 UTC</title>
+    <updated>2024-08-18T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081800&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-18T00:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (23.5N, 126.8E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>23.5</geo:lat>
+    <geo:long>126.8</geo:long>
+    <georss:point>23.5 126.8</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>23.5 126.8</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1004</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-18T06:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-18 06:00 UTC</title>
+    <updated>2024-08-18T06:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081806&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-18T06:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (23.8N, 126.5E) with the central pressure of 1000 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>23.8</geo:lat>
+    <geo:long>126.5</geo:long>
+    <georss:point>23.8 126.5</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>23.8 126.5</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1000</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-18T12:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-18 12:00 UTC</title>
+    <updated>2024-08-18T12:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081812&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-18T12:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (24.1N, 126.4E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
+    </content>
+    <geo:lat>24.1</geo:lat>
+    <geo:long>126.4</geo:long>
+    <georss:point>24.1 126.4</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>24.1 126.4</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>3</dt:class>
+    <dt:pressure>998</dt:pressure>
+    <dt:wind mps="17">35</dt:wind>
+  </entry>
+  <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-18T18:00:00+00:00</id>
     <title>Typhoon 202409 (JONGDARI) : 2024-08-18 18:00 UTC</title>
     <updated>2024-08-18T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081818&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-18T18:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (24.2N, 125.4E) with the central pressure of 1000 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-18T18:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (24.6N, 126.2E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
     </content>
-    <geo:lat>24.2</geo:lat>
-    <geo:long>125.4</geo:long>
-    <georss:point>24.2 125.4</georss:point>
+    <geo:lat>24.6</geo:lat>
+    <geo:long>126.2</geo:long>
+    <georss:point>24.6 126.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>24.2 125.4</gml:pos>
+        <gml:pos>24.6 126.2</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
-    <dt:pressure>1000</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-18T21:00:00+00:00</id>
-    <title>Typhoon 202409 (JONGDARI) : 2024-08-18 21:00 UTC</title>
-    <updated>2024-08-18T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081821&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-18T21:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (24.5N, 125.6E) with the central pressure of 1000 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>24.5</geo:lat>
-    <geo:long>125.6</geo:long>
-    <georss:point>24.5 125.6</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>24.5 125.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>1000</dt:pressure>
+    <dt:pressure>998</dt:pressure>
     <dt:wind mps="17">35</dt:wind>
   </entry>
   <entry>
@@ -62,38 +102,18 @@
     <updated>2024-08-19T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081900&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T00:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (25.0N, 126.1E) with the central pressure of 1000 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T00:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (25.2N, 126.2E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
     </content>
-    <geo:lat>25.0</geo:lat>
-    <geo:long>126.1</geo:long>
-    <georss:point>25.0 126.1</georss:point>
+    <geo:lat>25.2</geo:lat>
+    <geo:long>126.2</geo:long>
+    <georss:point>25.2 126.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>25.0 126.1</gml:pos>
+        <gml:pos>25.2 126.2</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
-    <dt:pressure>1000</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-19T03:00:00+00:00</id>
-    <title>Typhoon 202409 (JONGDARI) : 2024-08-19 03:00 UTC</title>
-    <updated>2024-08-19T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081903&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T03:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (25.6N, 126.1E) with the central pressure of 1000 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>25.6</geo:lat>
-    <geo:long>126.1</geo:long>
-    <georss:point>25.6 126.1</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>25.6 126.1</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>1000</dt:pressure>
+    <dt:pressure>998</dt:pressure>
     <dt:wind mps="17">35</dt:wind>
   </entry>
   <entry>
@@ -102,7 +122,7 @@
     <updated>2024-08-19T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081906&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T06:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (26.3N, 126.0E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T06:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (26.3N, 126.0E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
     </content>
     <geo:lat>26.3</geo:lat>
     <geo:long>126.0</geo:long>
@@ -113,27 +133,7 @@
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-19T09:00:00+00:00</id>
-    <title>Typhoon 202409 (JONGDARI) : 2024-08-19 09:00 UTC</title>
-    <updated>2024-08-19T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081909&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T09:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (26.9N, 125.9E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>26.9</geo:lat>
-    <geo:long>125.9</geo:long>
-    <georss:point>26.9 125.9</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>26.9 125.9</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
+    <dt:pressure>996</dt:pressure>
     <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
@@ -142,38 +142,18 @@
     <updated>2024-08-19T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081912&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T12:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (27.6N, 125.7E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T12:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (27.6N, 125.9E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
     </content>
     <geo:lat>27.6</geo:lat>
-    <geo:long>125.7</geo:long>
-    <georss:point>27.6 125.7</georss:point>
+    <geo:long>125.9</geo:long>
+    <georss:point>27.6 125.9</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>27.6 125.7</gml:pos>
+        <gml:pos>27.6 125.9</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-19T15:00:00+00:00</id>
-    <title>Typhoon 202409 (JONGDARI) : 2024-08-19 15:00 UTC</title>
-    <updated>2024-08-19T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081915&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T15:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (28.4N, 125.7E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>28.4</geo:lat>
-    <geo:long>125.7</geo:long>
-    <georss:point>28.4 125.7</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>28.4 125.7</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
+    <dt:pressure>996</dt:pressure>
     <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
@@ -182,7 +162,7 @@
     <updated>2024-08-19T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081918&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T18:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (29.4N, 125.6E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T18:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (29.4N, 125.6E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
     </content>
     <geo:lat>29.4</geo:lat>
     <geo:long>125.6</geo:long>
@@ -193,27 +173,7 @@
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-19T21:00:00+00:00</id>
-    <title>Typhoon 202409 (JONGDARI) : 2024-08-19 21:00 UTC</title>
-    <updated>2024-08-19T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924081921&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-19T21:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (30.3N, 125.6E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>30.3</geo:lat>
-    <geo:long>125.6</geo:long>
-    <georss:point>30.3 125.6</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>30.3 125.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
+    <dt:pressure>996</dt:pressure>
     <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
@@ -237,63 +197,23 @@
     <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-20T03:00:00+00:00</id>
-    <title>Typhoon 202409 (JONGDARI) : 2024-08-20 03:00 UTC</title>
-    <updated>2024-08-20T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082003&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-20T03:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (31.8N, 125.5E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>31.8</geo:lat>
-    <geo:long>125.5</geo:long>
-    <georss:point>31.8 125.5</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>31.8 125.5</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-20T06:00:00+00:00</id>
     <title>Typhoon 202409 (JONGDARI) : 2024-08-20 06:00 UTC</title>
     <updated>2024-08-20T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082006&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-20T06:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (32.5N, 125.3E) with the central pressure of 1000 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-20T06:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (32.6N, 125.4E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
     </content>
-    <geo:lat>32.5</geo:lat>
-    <geo:long>125.3</geo:long>
-    <georss:point>32.5 125.3</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>32.5 125.3</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>1000</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-20T09:00:00+00:00</id>
-    <title>Typhoon 202409 (JONGDARI) : 2024-08-20 09:00 UTC</title>
-    <updated>2024-08-20T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082009&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-20T09:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (33.4N, 125.4E) with the central pressure of 1000 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>33.4</geo:lat>
+    <geo:lat>32.6</geo:lat>
     <geo:long>125.4</geo:long>
-    <georss:point>33.4 125.4</georss:point>
+    <georss:point>32.6 125.4</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>33.4 125.4</gml:pos>
+        <gml:pos>32.6 125.4</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
-    <dt:pressure>1000</dt:pressure>
+    <dt:pressure>998</dt:pressure>
     <dt:wind mps="17">35</dt:wind>
   </entry>
   <entry>
@@ -302,7 +222,7 @@
     <updated>2024-08-20T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082012&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-20T12:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (34.0N, 126.0E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-20T12:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (34.0N, 126.0E) with the central pressure of 1002 hPa and the maximum wind speed of 35 kt. </div>
     </content>
     <geo:lat>34.0</geo:lat>
     <geo:long>126.0</geo:long>
@@ -312,8 +232,168 @@
         <gml:pos>34.0 126.0</gml:pos>
       </gml:Point>
     </georss:where>
+    <dt:class>3</dt:class>
+    <dt:pressure>1002</dt:pressure>
+    <dt:wind mps="17">35</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-20T18:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-20 18:00 UTC</title>
+    <updated>2024-08-20T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082018&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-20T18:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (36.6N, 125.4E) with the central pressure of 1004 hPa and the maximum wind speed of 35 kt. </div>
+    </content>
+    <geo:lat>36.6</geo:lat>
+    <geo:long>125.4</geo:long>
+    <georss:point>36.6 125.4</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>36.6 125.4</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>3</dt:class>
+    <dt:pressure>1004</dt:pressure>
+    <dt:wind mps="17">35</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-21T00:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-21 00:00 UTC</title>
+    <updated>2024-08-21T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082100&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-21T00:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (37.7N, 126.1E) with the central pressure of 1006 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>37.7</geo:lat>
+    <geo:long>126.1</geo:long>
+    <georss:point>37.7 126.1</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>37.7 126.1</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1006</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-21T06:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-21 06:00 UTC</title>
+    <updated>2024-08-21T06:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082106&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-21T06:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (39.0N, 127.9E) with the central pressure of 1006 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>39.0</geo:lat>
+    <geo:long>127.9</geo:long>
+    <georss:point>39.0 127.9</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>39.0 127.9</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1006</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-21T12:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-21 12:00 UTC</title>
+    <updated>2024-08-21T12:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082112&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-21T12:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (40.2N, 130.3E) with the central pressure of 1006 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>40.2</geo:lat>
+    <geo:long>130.3</geo:long>
+    <georss:point>40.2 130.3</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>40.2 130.3</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1006</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-21T18:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-21 18:00 UTC</title>
+    <updated>2024-08-21T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082118&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-21T18:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (42.3N, 132.1E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>42.3</geo:lat>
+    <geo:long>132.1</geo:long>
+    <georss:point>42.3 132.1</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>42.3 132.1</gml:pos>
+      </gml:Point>
+    </georss:where>
     <dt:class>2</dt:class>
     <dt:pressure>1004</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-22T00:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-22 00:00 UTC</title>
+    <updated>2024-08-22T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082200&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-22T00:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (42.1N, 133.7E) with the central pressure of 1002 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>42.1</geo:lat>
+    <geo:long>133.7</geo:long>
+    <georss:point>42.1 133.7</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>42.1 133.7</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>1002</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-22T06:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-22 06:00 UTC</title>
+    <updated>2024-08-22T06:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082206&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-22T06:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (43.6N, 136.0E) with the central pressure of 1000 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>43.6</geo:lat>
+    <geo:long>136.0</geo:long>
+    <georss:point>43.6 136.0</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>43.6 136.0</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>1000</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202409/en/2024-08-22T12:00:00+00:00</id>
+    <title>Typhoon 202409 (JONGDARI) : 2024-08-22 12:00 UTC</title>
+    <updated>2024-08-22T12:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924082212&amp;id=202409&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-08-22T12:00:00+00:00, Typhoon 202409 (JONGDARI) is located at (44.7N, 138.3E) with the central pressure of 1000 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>44.7</geo:lat>
+    <geo:long>138.3</geo:long>
+    <georss:point>44.7 138.3</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>44.7 138.3</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>1000</dt:pressure>
     <dt:wind mps="0">0</dt:wind>
   </entry>
 </feed>

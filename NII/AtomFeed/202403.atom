@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:dt="http://www.digital-typhoon.org/ns">
   <title>Digital Typhoon</title>
   <subtitle>Typhoon 202403 (GAEMI) Best Track</subtitle>
-  <updated>2024-07-27T12:00:00+00:00</updated>
+  <updated>2024-10-21T00:00:00Z</updated>
   <rights>Copyright (C) 2001-2024 KITAMOTO Asanobu. All Rights Reserved.</rights>
   <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202403.html.en"/>
   <link rel="self" type="application/atom+xml" href="https://agora.ex.nii.ac.jp/digital-typhoon/atom/typhoon/wnp/202403.en.atom"/>
@@ -17,44 +17,64 @@
     <uri>http://www.jma.go.jp/</uri>
   </contributor>
   <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-19T00:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-19 00:00 UTC</title>
+    <updated>2024-07-19T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924071900&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-19T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (11.4N, 133.1E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>11.4</geo:lat>
+    <geo:long>133.1</geo:long>
+    <georss:point>11.4 133.1</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>11.4 133.1</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1004</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-19T06:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-19 06:00 UTC</title>
+    <updated>2024-07-19T06:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924071906&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-19T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (12.6N, 132.3E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>12.6</geo:lat>
+    <geo:long>132.3</geo:long>
+    <georss:point>12.6 132.3</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>12.6 132.3</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1004</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-19T12:00:00+00:00</id>
     <title>Typhoon 202403 (GAEMI) : 2024-07-19 12:00 UTC</title>
     <updated>2024-07-19T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924071912&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-19T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (13.7N, 131.7E) with the central pressure of 1006 hPa and the maximum wind speed of 30 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-19T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (14.1N, 131.3E) with the central pressure of 1006 hPa and the maximum wind speed of 0 kt. </div>
     </content>
-    <geo:lat>13.7</geo:lat>
-    <geo:long>131.7</geo:long>
-    <georss:point>13.7 131.7</georss:point>
+    <geo:lat>14.1</geo:lat>
+    <geo:long>131.3</geo:long>
+    <georss:point>14.1 131.3</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>13.7 131.7</gml:pos>
+        <gml:pos>14.1 131.3</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>2</dt:class>
     <dt:pressure>1006</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-19T15:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-19 15:00 UTC</title>
-    <updated>2024-07-19T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924071915&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-19T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (14.0N, 130.6E) with the central pressure of 1006 hPa and the maximum wind speed of 30 kt. </div>
-    </content>
-    <geo:lat>14.0</geo:lat>
-    <geo:long>130.6</geo:long>
-    <georss:point>14.0 130.6</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>14.0 130.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1006</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
+    <dt:wind mps="0">0</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-19T18:00:00+00:00</id>
@@ -62,39 +82,19 @@
     <updated>2024-07-19T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924071918&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-19T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (14.2N, 130.3E) with the central pressure of 1006 hPa and the maximum wind speed of 30 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-19T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (14.9N, 129.6E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
     </content>
-    <geo:lat>14.2</geo:lat>
-    <geo:long>130.3</geo:long>
-    <georss:point>14.2 130.3</georss:point>
+    <geo:lat>14.9</geo:lat>
+    <geo:long>129.6</geo:long>
+    <georss:point>14.9 129.6</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>14.2 130.3</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1006</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-19T21:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-19 21:00 UTC</title>
-    <updated>2024-07-19T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924071921&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-19T21:00:00+00:00, Typhoon 202403 (GAEMI) is located at (14.5N, 129.7E) with the central pressure of 1004 hPa and the maximum wind speed of 30 kt. </div>
-    </content>
-    <geo:lat>14.5</geo:lat>
-    <geo:long>129.7</geo:long>
-    <georss:point>14.5 129.7</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>14.5 129.7</gml:pos>
+        <gml:pos>14.9 129.6</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>2</dt:class>
     <dt:pressure>1004</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
+    <dt:wind mps="0">0</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-20T00:00:00+00:00</id>
@@ -102,39 +102,19 @@
     <updated>2024-07-20T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072000&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (15.2N, 129.3E) with the central pressure of 1004 hPa and the maximum wind speed of 30 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (15.5N, 128.5E) with the central pressure of 1002 hPa and the maximum wind speed of 35 kt. </div>
     </content>
-    <geo:lat>15.2</geo:lat>
-    <geo:long>129.3</geo:long>
-    <georss:point>15.2 129.3</georss:point>
+    <geo:lat>15.5</geo:lat>
+    <geo:long>128.5</geo:long>
+    <georss:point>15.5 128.5</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>15.2 129.3</gml:pos>
+        <gml:pos>15.5 128.5</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1004</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-20T03:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-20 03:00 UTC</title>
-    <updated>2024-07-20T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072003&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T03:00:00+00:00, Typhoon 202403 (GAEMI) is located at (15.3N, 128.2E) with the central pressure of 1004 hPa and the maximum wind speed of 30 kt. </div>
-    </content>
-    <geo:lat>15.3</geo:lat>
-    <geo:long>128.2</geo:long>
-    <georss:point>15.3 128.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>15.3 128.2</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1004</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
+    <dt:class>3</dt:class>
+    <dt:pressure>1002</dt:pressure>
+    <dt:wind mps="17">35</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-20T06:00:00+00:00</id>
@@ -142,39 +122,19 @@
     <updated>2024-07-20T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072006&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (15.4N, 128.1E) with the central pressure of 1002 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.2N, 127.5E) with the central pressure of 1000 hPa and the maximum wind speed of 40 kt. </div>
     </content>
-    <geo:lat>15.4</geo:lat>
-    <geo:long>128.1</geo:long>
-    <georss:point>15.4 128.1</georss:point>
+    <geo:lat>16.2</geo:lat>
+    <geo:long>127.5</geo:long>
+    <georss:point>16.2 127.5</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>15.4 128.1</gml:pos>
+        <gml:pos>16.2 127.5</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
-    <dt:pressure>1002</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-20T09:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-20 09:00 UTC</title>
-    <updated>2024-07-20T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072009&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T09:00:00+00:00, Typhoon 202403 (GAEMI) is located at (15.7N, 127.8E) with the central pressure of 1002 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>15.7</geo:lat>
-    <geo:long>127.8</geo:long>
-    <georss:point>15.7 127.8</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>15.7 127.8</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>1002</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
+    <dt:pressure>1000</dt:pressure>
+    <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-20T12:00:00+00:00</id>
@@ -182,54 +142,14 @@
     <updated>2024-07-20T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072012&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.0N, 127.3E) with the central pressure of 1002 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.3N, 126.8E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
     </content>
-    <geo:lat>16.0</geo:lat>
-    <geo:long>127.3</geo:long>
-    <georss:point>16.0 127.3</georss:point>
+    <geo:lat>16.3</geo:lat>
+    <geo:long>126.8</geo:long>
+    <georss:point>16.3 126.8</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>16.0 127.3</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>1002</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-20T15:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-20 15:00 UTC</title>
-    <updated>2024-07-20T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072015&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.5N, 126.4E) with the central pressure of 1002 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>16.5</geo:lat>
-    <geo:long>126.4</geo:long>
-    <georss:point>16.5 126.4</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>16.5 126.4</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>1002</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-20T18:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-20 18:00 UTC</title>
-    <updated>2024-07-20T18:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072018&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.6N, 125.7E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>16.6</geo:lat>
-    <geo:long>125.7</geo:long>
-    <georss:point>16.6 125.7</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>16.6 125.7</gml:pos>
+        <gml:pos>16.3 126.8</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -237,19 +157,19 @@
     <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-20T21:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-20 21:00 UTC</title>
-    <updated>2024-07-20T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072021&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-20T18:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-20 18:00 UTC</title>
+    <updated>2024-07-20T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072018&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T21:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.7N, 125.5E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-20T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.3N, 126.2E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
     </content>
-    <geo:lat>16.7</geo:lat>
-    <geo:long>125.5</geo:long>
-    <georss:point>16.7 125.5</georss:point>
+    <geo:lat>16.3</geo:lat>
+    <geo:long>126.2</geo:long>
+    <georss:point>16.3 126.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>16.7 125.5</gml:pos>
+        <gml:pos>16.3 126.2</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -262,34 +182,14 @@
     <updated>2024-07-21T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072100&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.8N, 125.1E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.4N, 125.7E) with the central pressure of 994 hPa and the maximum wind speed of 45 kt. </div>
     </content>
-    <geo:lat>16.8</geo:lat>
-    <geo:long>125.1</geo:long>
-    <georss:point>16.8 125.1</georss:point>
+    <geo:lat>16.4</geo:lat>
+    <geo:long>125.7</geo:long>
+    <georss:point>16.4 125.7</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>16.8 125.1</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-21T03:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-21 03:00 UTC</title>
-    <updated>2024-07-21T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072103&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T03:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.9N, 125.0E) with the central pressure of 994 hPa and the maximum wind speed of 45 kt. </div>
-    </content>
-    <geo:lat>16.9</geo:lat>
-    <geo:long>125.0</geo:long>
-    <georss:point>16.9 125.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>16.9 125.0</gml:pos>
+        <gml:pos>16.4 125.7</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -302,34 +202,14 @@
     <updated>2024-07-21T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072106&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.0N, 125.0E) with the central pressure of 992 hPa and the maximum wind speed of 50 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.4N, 125.6E) with the central pressure of 992 hPa and the maximum wind speed of 50 kt. </div>
     </content>
-    <geo:lat>17.0</geo:lat>
-    <geo:long>125.0</geo:long>
-    <georss:point>17.0 125.0</georss:point>
+    <geo:lat>16.4</geo:lat>
+    <geo:long>125.6</geo:long>
+    <georss:point>16.4 125.6</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>17.0 125.0</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>992</dt:pressure>
-    <dt:wind mps="25">50</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-21T09:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-21 09:00 UTC</title>
-    <updated>2024-07-21T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072109&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T09:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.1N, 125.0E) with the central pressure of 992 hPa and the maximum wind speed of 50 kt. </div>
-    </content>
-    <geo:lat>17.1</geo:lat>
-    <geo:long>125.0</geo:long>
-    <georss:point>17.1 125.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>17.1 125.0</gml:pos>
+        <gml:pos>16.4 125.6</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>4</dt:class>
@@ -342,39 +222,19 @@
     <updated>2024-07-21T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072112&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.2N, 125.0E) with the central pressure of 990 hPa and the maximum wind speed of 55 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.5N, 125.5E) with the central pressure of 992 hPa and the maximum wind speed of 50 kt. </div>
     </content>
-    <geo:lat>17.2</geo:lat>
-    <geo:long>125.0</geo:long>
-    <georss:point>17.2 125.0</georss:point>
+    <geo:lat>16.5</geo:lat>
+    <geo:long>125.5</geo:long>
+    <georss:point>16.5 125.5</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>17.2 125.0</gml:pos>
+        <gml:pos>16.5 125.5</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>4</dt:class>
-    <dt:pressure>990</dt:pressure>
-    <dt:wind mps="27">55</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-21T15:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-21 15:00 UTC</title>
-    <updated>2024-07-21T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072115&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.2N, 125.0E) with the central pressure of 990 hPa and the maximum wind speed of 55 kt. </div>
-    </content>
-    <geo:lat>17.2</geo:lat>
-    <geo:long>125.0</geo:long>
-    <georss:point>17.2 125.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>17.2 125.0</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>990</dt:pressure>
-    <dt:wind mps="27">55</dt:wind>
+    <dt:pressure>992</dt:pressure>
+    <dt:wind mps="25">50</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-21T18:00:00+00:00</id>
@@ -382,39 +242,19 @@
     <updated>2024-07-21T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072118&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.2N, 125.0E) with the central pressure of 990 hPa and the maximum wind speed of 55 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (16.8N, 125.5E) with the central pressure of 985 hPa and the maximum wind speed of 60 kt. </div>
     </content>
-    <geo:lat>17.2</geo:lat>
-    <geo:long>125.0</geo:long>
-    <georss:point>17.2 125.0</georss:point>
+    <geo:lat>16.8</geo:lat>
+    <geo:long>125.5</geo:long>
+    <georss:point>16.8 125.5</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>17.2 125.0</gml:pos>
+        <gml:pos>16.8 125.5</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>4</dt:class>
-    <dt:pressure>990</dt:pressure>
-    <dt:wind mps="27">55</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-21T21:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-21 21:00 UTC</title>
-    <updated>2024-07-21T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072121&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-21T21:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.4N, 125.0E) with the central pressure of 990 hPa and the maximum wind speed of 55 kt. </div>
-    </content>
-    <geo:lat>17.4</geo:lat>
-    <geo:long>125.0</geo:long>
-    <georss:point>17.4 125.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>17.4 125.0</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>990</dt:pressure>
-    <dt:wind mps="27">55</dt:wind>
+    <dt:pressure>985</dt:pressure>
+    <dt:wind mps="30">60</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-22T00:00:00+00:00</id>
@@ -422,34 +262,14 @@
     <updated>2024-07-22T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072200&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.4N, 125.2E) with the central pressure of 980 hPa and the maximum wind speed of 65 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.2N, 125.5E) with the central pressure of 980 hPa and the maximum wind speed of 65 kt. </div>
     </content>
-    <geo:lat>17.4</geo:lat>
-    <geo:long>125.2</geo:long>
-    <georss:point>17.4 125.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>17.4 125.2</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>980</dt:pressure>
-    <dt:wind mps="32">65</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-22T03:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-22 03:00 UTC</title>
-    <updated>2024-07-22T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072203&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T03:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.5N, 125.5E) with the central pressure of 980 hPa and the maximum wind speed of 65 kt. </div>
-    </content>
-    <geo:lat>17.5</geo:lat>
+    <geo:lat>17.2</geo:lat>
     <geo:long>125.5</geo:long>
-    <georss:point>17.5 125.5</georss:point>
+    <georss:point>17.2 125.5</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>17.5 125.5</gml:pos>
+        <gml:pos>17.2 125.5</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
@@ -462,39 +282,19 @@
     <updated>2024-07-22T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072206&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.6N, 125.6E) with the central pressure of 970 hPa and the maximum wind speed of 70 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (17.7N, 125.5E) with the central pressure of 980 hPa and the maximum wind speed of 65 kt. </div>
     </content>
-    <geo:lat>17.6</geo:lat>
-    <geo:long>125.6</geo:long>
-    <georss:point>17.6 125.6</georss:point>
+    <geo:lat>17.7</geo:lat>
+    <geo:long>125.5</geo:long>
+    <georss:point>17.7 125.5</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>17.6 125.6</gml:pos>
+        <gml:pos>17.7 125.5</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>970</dt:pressure>
-    <dt:wind mps="35">70</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-22T09:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-22 09:00 UTC</title>
-    <updated>2024-07-22T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072209&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T09:00:00+00:00, Typhoon 202403 (GAEMI) is located at (18.1N, 125.7E) with the central pressure of 970 hPa and the maximum wind speed of 70 kt. </div>
-    </content>
-    <geo:lat>18.1</geo:lat>
-    <geo:long>125.7</geo:long>
-    <georss:point>18.1 125.7</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>18.1 125.7</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>970</dt:pressure>
-    <dt:wind mps="35">70</dt:wind>
+    <dt:pressure>980</dt:pressure>
+    <dt:wind mps="32">65</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-22T12:00:00+00:00</id>
@@ -502,39 +302,19 @@
     <updated>2024-07-22T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072212&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (18.3N, 125.5E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (18.2N, 125.4E) with the central pressure of 980 hPa and the maximum wind speed of 65 kt. </div>
     </content>
-    <geo:lat>18.3</geo:lat>
-    <geo:long>125.5</geo:long>
-    <georss:point>18.3 125.5</georss:point>
+    <geo:lat>18.2</geo:lat>
+    <geo:long>125.4</geo:long>
+    <georss:point>18.2 125.4</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>18.3 125.5</gml:pos>
+        <gml:pos>18.2 125.4</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
-    <dt:wind mps="37">75</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-22T15:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-22 15:00 UTC</title>
-    <updated>2024-07-22T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072215&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (18.4N, 125.3E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
-    </content>
-    <geo:lat>18.4</geo:lat>
-    <geo:long>125.3</geo:long>
-    <georss:point>18.4 125.3</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>18.4 125.3</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
-    <dt:wind mps="37">75</dt:wind>
+    <dt:pressure>980</dt:pressure>
+    <dt:wind mps="32">65</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-22T18:00:00+00:00</id>
@@ -542,39 +322,19 @@
     <updated>2024-07-22T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072218&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (18.6N, 125.2E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (18.7N, 125.2E) with the central pressure of 975 hPa and the maximum wind speed of 70 kt. </div>
     </content>
-    <geo:lat>18.6</geo:lat>
+    <geo:lat>18.7</geo:lat>
     <geo:long>125.2</geo:long>
-    <georss:point>18.6 125.2</georss:point>
+    <georss:point>18.7 125.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>18.6 125.2</gml:pos>
+        <gml:pos>18.7 125.2</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
-    <dt:wind mps="37">75</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-22T21:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-22 21:00 UTC</title>
-    <updated>2024-07-22T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072221&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-22T21:00:00+00:00, Typhoon 202403 (GAEMI) is located at (19.1N, 125.1E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
-    </content>
-    <geo:lat>19.1</geo:lat>
-    <geo:long>125.1</geo:long>
-    <georss:point>19.1 125.1</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>19.1 125.1</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
-    <dt:wind mps="37">75</dt:wind>
+    <dt:pressure>975</dt:pressure>
+    <dt:wind mps="35">70</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-23T00:00:00+00:00</id>
@@ -582,38 +342,18 @@
     <updated>2024-07-23T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072300&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (19.6N, 125.1E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (19.5N, 125.1E) with the central pressure of 970 hPa and the maximum wind speed of 75 kt. </div>
     </content>
-    <geo:lat>19.6</geo:lat>
+    <geo:lat>19.5</geo:lat>
     <geo:long>125.1</geo:long>
-    <georss:point>19.6 125.1</georss:point>
+    <georss:point>19.5 125.1</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>19.6 125.1</gml:pos>
+        <gml:pos>19.5 125.1</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
-    <dt:wind mps="37">75</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-23T03:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-23 03:00 UTC</title>
-    <updated>2024-07-23T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072303&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T03:00:00+00:00, Typhoon 202403 (GAEMI) is located at (19.8N, 124.9E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
-    </content>
-    <geo:lat>19.8</geo:lat>
-    <geo:long>124.9</geo:long>
-    <georss:point>19.8 124.9</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>19.8 124.9</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
+    <dt:pressure>970</dt:pressure>
     <dt:wind mps="37">75</dt:wind>
   </entry>
   <entry>
@@ -622,7 +362,7 @@
     <updated>2024-07-23T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072306&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (20.7N, 125.0E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (20.7N, 125.0E) with the central pressure of 970 hPa and the maximum wind speed of 75 kt. </div>
     </content>
     <geo:lat>20.7</geo:lat>
     <geo:long>125.0</geo:long>
@@ -633,27 +373,7 @@
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
-    <dt:wind mps="37">75</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-23T09:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-23 09:00 UTC</title>
-    <updated>2024-07-23T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072309&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T09:00:00+00:00, Typhoon 202403 (GAEMI) is located at (21.3N, 125.0E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
-    </content>
-    <geo:lat>21.3</geo:lat>
-    <geo:long>125.0</geo:long>
-    <georss:point>21.3 125.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>21.3 125.0</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
+    <dt:pressure>970</dt:pressure>
     <dt:wind mps="37">75</dt:wind>
   </entry>
   <entry>
@@ -682,19 +402,19 @@
     <updated>2024-07-23T15:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072315&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (22.4N, 124.1E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (22.6N, 123.9E) with the central pressure of 955 hPa and the maximum wind speed of 80 kt. </div>
     </content>
-    <geo:lat>22.4</geo:lat>
-    <geo:long>124.1</geo:long>
-    <georss:point>22.4 124.1</georss:point>
+    <geo:lat>22.6</geo:lat>
+    <geo:long>123.9</geo:long>
+    <georss:point>22.6 123.9</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>22.4 124.1</gml:pos>
+        <gml:pos>22.6 123.9</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
-    <dt:wind mps="37">75</dt:wind>
+    <dt:pressure>955</dt:pressure>
+    <dt:wind mps="40">80</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-23T18:00:00+00:00</id>
@@ -702,14 +422,14 @@
     <updated>2024-07-23T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072318&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (22.8N, 123.6E) with the central pressure of 950 hPa and the maximum wind speed of 85 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (22.8N, 123.5E) with the central pressure of 950 hPa and the maximum wind speed of 85 kt. </div>
     </content>
     <geo:lat>22.8</geo:lat>
-    <geo:long>123.6</geo:long>
-    <georss:point>22.8 123.6</georss:point>
+    <geo:long>123.5</geo:long>
+    <georss:point>22.8 123.5</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>22.8 123.6</gml:pos>
+        <gml:pos>22.8 123.5</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
@@ -722,7 +442,7 @@
     <updated>2024-07-23T21:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072321&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T21:00:00+00:00, Typhoon 202403 (GAEMI) is located at (23.1N, 123.4E) with the central pressure of 950 hPa and the maximum wind speed of 85 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-23T21:00:00+00:00, Typhoon 202403 (GAEMI) is located at (23.1N, 123.4E) with the central pressure of 945 hPa and the maximum wind speed of 85 kt. </div>
     </content>
     <geo:lat>23.1</geo:lat>
     <geo:long>123.4</geo:long>
@@ -733,7 +453,7 @@
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>950</dt:pressure>
+    <dt:pressure>945</dt:pressure>
     <dt:wind mps="42">85</dt:wind>
   </entry>
   <entry>
@@ -742,14 +462,14 @@
     <updated>2024-07-24T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072400&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (23.4N, 123.3E) with the central pressure of 945 hPa and the maximum wind speed of 85 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (23.6N, 123.2E) with the central pressure of 945 hPa and the maximum wind speed of 85 kt. </div>
     </content>
-    <geo:lat>23.4</geo:lat>
-    <geo:long>123.3</geo:long>
-    <georss:point>23.4 123.3</georss:point>
+    <geo:lat>23.6</geo:lat>
+    <geo:long>123.2</geo:long>
+    <georss:point>23.6 123.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>23.4 123.3</gml:pos>
+        <gml:pos>23.6 123.2</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
@@ -762,7 +482,7 @@
     <updated>2024-07-24T03:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072403&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T03:00:00+00:00, Typhoon 202403 (GAEMI) is located at (23.9N, 122.9E) with the central pressure of 945 hPa and the maximum wind speed of 85 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T03:00:00+00:00, Typhoon 202403 (GAEMI) is located at (23.9N, 122.9E) with the central pressure of 935 hPa and the maximum wind speed of 90 kt. </div>
     </content>
     <geo:lat>23.9</geo:lat>
     <geo:long>122.9</geo:long>
@@ -773,8 +493,8 @@
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>945</dt:pressure>
-    <dt:wind mps="42">85</dt:wind>
+    <dt:pressure>935</dt:pressure>
+    <dt:wind mps="45">90</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-24T06:00:00+00:00</id>
@@ -782,7 +502,7 @@
     <updated>2024-07-24T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072406&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (24.2N, 122.5E) with the central pressure of 940 hPa and the maximum wind speed of 90 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (24.2N, 122.5E) with the central pressure of 935 hPa and the maximum wind speed of 90 kt. </div>
     </content>
     <geo:lat>24.2</geo:lat>
     <geo:long>122.5</geo:long>
@@ -793,7 +513,7 @@
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>940</dt:pressure>
+    <dt:pressure>935</dt:pressure>
     <dt:wind mps="45">90</dt:wind>
   </entry>
   <entry>
@@ -802,47 +522,7 @@
     <updated>2024-07-24T09:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072409&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T09:00:00+00:00, Typhoon 202403 (GAEMI) is located at (24.2N, 122.0E) with the central pressure of 940 hPa and the maximum wind speed of 90 kt. </div>
-    </content>
-    <geo:lat>24.2</geo:lat>
-    <geo:long>122.0</geo:long>
-    <georss:point>24.2 122.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>24.2 122.0</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>940</dt:pressure>
-    <dt:wind mps="45">90</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-24T12:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-24 12:00 UTC</title>
-    <updated>2024-07-24T12:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072412&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (23.4N, 121.6E) with the central pressure of 950 hPa and the maximum wind speed of 85 kt. </div>
-    </content>
-    <geo:lat>23.4</geo:lat>
-    <geo:long>121.6</geo:long>
-    <georss:point>23.4 121.6</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>23.4 121.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>950</dt:pressure>
-    <dt:wind mps="42">85</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-24T15:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-24 15:00 UTC</title>
-    <updated>2024-07-24T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072415&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (24.1N, 121.9E) with the central pressure of 955 hPa and the maximum wind speed of 80 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T09:00:00+00:00, Typhoon 202403 (GAEMI) is located at (24.1N, 121.9E) with the central pressure of 950 hPa and the maximum wind speed of 75 kt. </div>
     </content>
     <geo:lat>24.1</geo:lat>
     <geo:long>121.9</geo:long>
@@ -853,8 +533,48 @@
       </gml:Point>
     </georss:where>
     <dt:class>5</dt:class>
-    <dt:pressure>955</dt:pressure>
-    <dt:wind mps="40">80</dt:wind>
+    <dt:pressure>950</dt:pressure>
+    <dt:wind mps="37">75</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-24T12:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-24 12:00 UTC</title>
+    <updated>2024-07-24T12:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072412&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (23.5N, 121.6E) with the central pressure of 960 hPa and the maximum wind speed of 65 kt. </div>
+    </content>
+    <geo:lat>23.5</geo:lat>
+    <geo:long>121.6</geo:long>
+    <georss:point>23.5 121.6</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>23.5 121.6</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>5</dt:class>
+    <dt:pressure>960</dt:pressure>
+    <dt:wind mps="32">65</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-24T15:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-24 15:00 UTC</title>
+    <updated>2024-07-24T15:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072415&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (24.1N, 121.8E) with the central pressure of 970 hPa and the maximum wind speed of 60 kt. </div>
+    </content>
+    <geo:lat>24.1</geo:lat>
+    <geo:long>121.8</geo:long>
+    <georss:point>24.1 121.8</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>24.1 121.8</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>4</dt:class>
+    <dt:pressure>970</dt:pressure>
+    <dt:wind mps="30">60</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-24T18:00:00+00:00</id>
@@ -862,39 +582,19 @@
     <updated>2024-07-24T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072418&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (24.7N, 121.4E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (24.8N, 121.4E) with the central pressure of 970 hPa and the maximum wind speed of 60 kt. </div>
     </content>
-    <geo:lat>24.7</geo:lat>
+    <geo:lat>24.8</geo:lat>
     <geo:long>121.4</geo:long>
-    <georss:point>24.7 121.4</georss:point>
+    <georss:point>24.8 121.4</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>24.7 121.4</gml:pos>
+        <gml:pos>24.8 121.4</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
-    <dt:wind mps="37">75</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-24T21:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-24 21:00 UTC</title>
-    <updated>2024-07-24T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072421&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-24T21:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.0N, 120.9E) with the central pressure of 965 hPa and the maximum wind speed of 75 kt. </div>
-    </content>
-    <geo:lat>25.0</geo:lat>
-    <geo:long>120.9</geo:long>
-    <georss:point>25.0 120.9</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>25.0 120.9</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>965</dt:pressure>
-    <dt:wind mps="37">75</dt:wind>
+    <dt:class>4</dt:class>
+    <dt:pressure>970</dt:pressure>
+    <dt:wind mps="30">60</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-25T00:00:00+00:00</id>
@@ -902,39 +602,19 @@
     <updated>2024-07-25T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072500&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.3N, 120.4E) with the central pressure of 970 hPa and the maximum wind speed of 70 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.1N, 120.3E) with the central pressure of 970 hPa and the maximum wind speed of 60 kt. </div>
     </content>
-    <geo:lat>25.3</geo:lat>
-    <geo:long>120.4</geo:long>
-    <georss:point>25.3 120.4</georss:point>
+    <geo:lat>25.1</geo:lat>
+    <geo:long>120.3</geo:long>
+    <georss:point>25.1 120.3</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>25.3 120.4</gml:pos>
+        <gml:pos>25.1 120.3</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>5</dt:class>
+    <dt:class>4</dt:class>
     <dt:pressure>970</dt:pressure>
-    <dt:wind mps="35">70</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-25T03:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-25 03:00 UTC</title>
-    <updated>2024-07-25T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072503&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T03:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.4N, 119.9E) with the central pressure of 970 hPa and the maximum wind speed of 70 kt. </div>
-    </content>
-    <geo:lat>25.4</geo:lat>
-    <geo:long>119.9</geo:long>
-    <georss:point>25.4 119.9</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>25.4 119.9</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>5</dt:class>
-    <dt:pressure>970</dt:pressure>
-    <dt:wind mps="35">70</dt:wind>
+    <dt:wind mps="30">60</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-25T06:00:00+00:00</id>
@@ -942,39 +622,19 @@
     <updated>2024-07-25T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072506&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.5N, 119.6E) with the central pressure of 975 hPa and the maximum wind speed of 60 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.2N, 119.7E) with the central pressure of 975 hPa and the maximum wind speed of 55 kt. </div>
     </content>
-    <geo:lat>25.5</geo:lat>
-    <geo:long>119.6</geo:long>
-    <georss:point>25.5 119.6</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>25.5 119.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>975</dt:pressure>
-    <dt:wind mps="30">60</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-25T09:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-25 09:00 UTC</title>
-    <updated>2024-07-25T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072509&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T09:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.4N, 119.7E) with the central pressure of 975 hPa and the maximum wind speed of 60 kt. </div>
-    </content>
-    <geo:lat>25.4</geo:lat>
+    <geo:lat>25.2</geo:lat>
     <geo:long>119.7</geo:long>
-    <georss:point>25.4 119.7</georss:point>
+    <georss:point>25.2 119.7</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>25.4 119.7</gml:pos>
+        <gml:pos>25.2 119.7</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>4</dt:class>
     <dt:pressure>975</dt:pressure>
-    <dt:wind mps="30">60</dt:wind>
+    <dt:wind mps="27">55</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-25T12:00:00+00:00</id>
@@ -982,39 +642,19 @@
     <updated>2024-07-25T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072512&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.3N, 119.1E) with the central pressure of 975 hPa and the maximum wind speed of 55 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.4N, 119.2E) with the central pressure of 980 hPa and the maximum wind speed of 50 kt. </div>
     </content>
-    <geo:lat>25.3</geo:lat>
-    <geo:long>119.1</geo:long>
-    <georss:point>25.3 119.1</georss:point>
+    <geo:lat>25.4</geo:lat>
+    <geo:long>119.2</geo:long>
+    <georss:point>25.4 119.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>25.3 119.1</gml:pos>
+        <gml:pos>25.4 119.2</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>4</dt:class>
-    <dt:pressure>975</dt:pressure>
-    <dt:wind mps="27">55</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-25T15:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-25 15:00 UTC</title>
-    <updated>2024-07-25T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072515&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.5N, 118.8E) with the central pressure of 975 hPa and the maximum wind speed of 55 kt. </div>
-    </content>
-    <geo:lat>25.5</geo:lat>
-    <geo:long>118.8</geo:long>
-    <georss:point>25.5 118.8</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>25.5 118.8</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>975</dt:pressure>
-    <dt:wind mps="27">55</dt:wind>
+    <dt:pressure>980</dt:pressure>
+    <dt:wind mps="25">50</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-25T18:00:00+00:00</id>
@@ -1022,39 +662,19 @@
     <updated>2024-07-25T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072518&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.5N, 118.7E) with the central pressure of 980 hPa and the maximum wind speed of 50 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.7N, 118.9E) with the central pressure of 980 hPa and the maximum wind speed of 45 kt. </div>
     </content>
-    <geo:lat>25.5</geo:lat>
-    <geo:long>118.7</geo:long>
-    <georss:point>25.5 118.7</georss:point>
+    <geo:lat>25.7</geo:lat>
+    <geo:long>118.9</geo:long>
+    <georss:point>25.7 118.9</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>25.5 118.7</gml:pos>
+        <gml:pos>25.7 118.9</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>4</dt:class>
+    <dt:class>3</dt:class>
     <dt:pressure>980</dt:pressure>
-    <dt:wind mps="25">50</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-25T21:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-25 21:00 UTC</title>
-    <updated>2024-07-25T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072521&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-25T21:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.6N, 118.6E) with the central pressure of 980 hPa and the maximum wind speed of 50 kt. </div>
-    </content>
-    <geo:lat>25.6</geo:lat>
-    <geo:long>118.6</geo:long>
-    <georss:point>25.6 118.6</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>25.6 118.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>980</dt:pressure>
-    <dt:wind mps="25">50</dt:wind>
+    <dt:wind mps="22">45</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-26T00:00:00+00:00</id>
@@ -1062,39 +682,19 @@
     <updated>2024-07-26T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072600&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (25.9N, 118.5E) with the central pressure of 985 hPa and the maximum wind speed of 45 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (26.4N, 118.3E) with the central pressure of 985 hPa and the maximum wind speed of 40 kt. </div>
     </content>
-    <geo:lat>25.9</geo:lat>
-    <geo:long>118.5</geo:long>
-    <georss:point>25.9 118.5</georss:point>
+    <geo:lat>26.4</geo:lat>
+    <geo:long>118.3</geo:long>
+    <georss:point>26.4 118.3</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>25.9 118.5</gml:pos>
+        <gml:pos>26.4 118.3</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
     <dt:pressure>985</dt:pressure>
-    <dt:wind mps="22">45</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-26T03:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-26 03:00 UTC</title>
-    <updated>2024-07-26T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072603&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T03:00:00+00:00, Typhoon 202403 (GAEMI) is located at (26.6N, 118.2E) with the central pressure of 985 hPa and the maximum wind speed of 45 kt. </div>
-    </content>
-    <geo:lat>26.6</geo:lat>
-    <geo:long>118.2</geo:long>
-    <georss:point>26.6 118.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>26.6 118.2</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>985</dt:pressure>
-    <dt:wind mps="22">45</dt:wind>
+    <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-26T06:00:00+00:00</id>
@@ -1102,39 +702,19 @@
     <updated>2024-07-26T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072606&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (27.8N, 118.0E) with the central pressure of 985 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (27.5N, 117.7E) with the central pressure of 988 hPa and the maximum wind speed of 35 kt. </div>
     </content>
-    <geo:lat>27.8</geo:lat>
-    <geo:long>118.0</geo:long>
-    <georss:point>27.8 118.0</georss:point>
+    <geo:lat>27.5</geo:lat>
+    <geo:long>117.7</geo:long>
+    <georss:point>27.5 117.7</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>27.8 118.0</gml:pos>
+        <gml:pos>27.5 117.7</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
-    <dt:pressure>985</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-26T09:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-26 09:00 UTC</title>
-    <updated>2024-07-26T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072609&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T09:00:00+00:00, Typhoon 202403 (GAEMI) is located at (27.9N, 117.4E) with the central pressure of 985 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>27.9</geo:lat>
-    <geo:long>117.4</geo:long>
-    <georss:point>27.9 117.4</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>27.9 117.4</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>985</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
+    <dt:pressure>988</dt:pressure>
+    <dt:wind mps="17">35</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-26T12:00:00+00:00</id>
@@ -1142,38 +722,18 @@
     <updated>2024-07-26T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072612&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (28.3N, 117.2E) with the central pressure of 990 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (27.9N, 116.8E) with the central pressure of 990 hPa and the maximum wind speed of 35 kt. </div>
     </content>
-    <geo:lat>28.3</geo:lat>
-    <geo:long>117.2</geo:long>
-    <georss:point>28.3 117.2</georss:point>
+    <geo:lat>27.9</geo:lat>
+    <geo:long>116.8</geo:long>
+    <georss:point>27.9 116.8</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>28.3 117.2</gml:pos>
+        <gml:pos>27.9 116.8</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
     <dt:pressure>990</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-26T15:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-26 15:00 UTC</title>
-    <updated>2024-07-26T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072615&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T15:00:00+00:00, Typhoon 202403 (GAEMI) is located at (28.5N, 116.9E) with the central pressure of 992 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>28.5</geo:lat>
-    <geo:long>116.9</geo:long>
-    <georss:point>28.5 116.9</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>28.5 116.9</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>992</dt:pressure>
     <dt:wind mps="17">35</dt:wind>
   </entry>
   <entry>
@@ -1182,39 +742,19 @@
     <updated>2024-07-26T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072618&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (28.7N, 116.7E) with the central pressure of 992 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (27.9N, 115.9E) with the central pressure of 992 hPa and the maximum wind speed of 0 kt. </div>
     </content>
-    <geo:lat>28.7</geo:lat>
-    <geo:long>116.7</geo:long>
-    <georss:point>28.7 116.7</georss:point>
+    <geo:lat>27.9</geo:lat>
+    <geo:long>115.9</geo:long>
+    <georss:point>27.9 115.9</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>28.7 116.7</gml:pos>
+        <gml:pos>27.9 115.9</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>3</dt:class>
+    <dt:class>2</dt:class>
     <dt:pressure>992</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-26T21:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-26 21:00 UTC</title>
-    <updated>2024-07-26T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072621&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-26T21:00:00+00:00, Typhoon 202403 (GAEMI) is located at (29.1N, 116.2E) with the central pressure of 994 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>29.1</geo:lat>
-    <geo:long>116.2</geo:long>
-    <georss:point>29.1 116.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>29.1 116.2</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>994</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
+    <dt:wind mps="0">0</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-27T00:00:00+00:00</id>
@@ -1222,39 +762,19 @@
     <updated>2024-07-27T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072700&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-27T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (29.2N, 115.9E) with the central pressure of 996 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-27T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (28.4N, 115.2E) with the central pressure of 996 hPa and the maximum wind speed of 0 kt. </div>
     </content>
-    <geo:lat>29.2</geo:lat>
-    <geo:long>115.9</geo:long>
-    <georss:point>29.2 115.9</georss:point>
+    <geo:lat>28.4</geo:lat>
+    <geo:long>115.2</geo:long>
+    <georss:point>28.4 115.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>29.2 115.9</gml:pos>
+        <gml:pos>28.4 115.2</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>3</dt:class>
+    <dt:class>2</dt:class>
     <dt:pressure>996</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-27T03:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-27 03:00 UTC</title>
-    <updated>2024-07-27T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072703&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-27T03:00:00+00:00, Typhoon 202403 (GAEMI) is located at (29.6N, 115.4E) with the central pressure of 996 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>29.6</geo:lat>
-    <geo:long>115.4</geo:long>
-    <georss:point>29.6 115.4</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>29.6 115.4</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
+    <dt:wind mps="0">0</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-27T06:00:00+00:00</id>
@@ -1262,39 +782,19 @@
     <updated>2024-07-27T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072706&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-27T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (30.0N, 115.4E) with the central pressure of 996 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-27T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (28.6N, 114.7E) with the central pressure of 996 hPa and the maximum wind speed of 0 kt. </div>
     </content>
-    <geo:lat>30.0</geo:lat>
-    <geo:long>115.4</geo:long>
-    <georss:point>30.0 115.4</georss:point>
+    <geo:lat>28.6</geo:lat>
+    <geo:long>114.7</geo:long>
+    <georss:point>28.6 114.7</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>30.0 115.4</gml:pos>
+        <gml:pos>28.6 114.7</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>3</dt:class>
+    <dt:class>2</dt:class>
     <dt:pressure>996</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-27T09:00:00+00:00</id>
-    <title>Typhoon 202403 (GAEMI) : 2024-07-27 09:00 UTC</title>
-    <updated>2024-07-27T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072709&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-27T09:00:00+00:00, Typhoon 202403 (GAEMI) is located at (30.4N, 114.9E) with the central pressure of 996 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>30.4</geo:lat>
-    <geo:long>114.9</geo:long>
-    <georss:point>30.4 114.9</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>30.4 114.9</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
+    <dt:wind mps="0">0</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-27T12:00:00+00:00</id>
@@ -1302,14 +802,114 @@
     <updated>2024-07-27T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072712&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-27T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (30.0N, 115.0E) with the central pressure of 998 hPa and the maximum wind speed of 0 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-27T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (29.1N, 114.0E) with the central pressure of 998 hPa and the maximum wind speed of 0 kt. </div>
     </content>
-    <geo:lat>30.0</geo:lat>
-    <geo:long>115.0</geo:long>
-    <georss:point>30.0 115.0</georss:point>
+    <geo:lat>29.1</geo:lat>
+    <geo:long>114.0</geo:long>
+    <georss:point>29.1 114.0</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>30.0 115.0</gml:pos>
+        <gml:pos>29.1 114.0</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>998</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-27T18:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-27 18:00 UTC</title>
+    <updated>2024-07-27T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072718&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-27T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (29.6N, 113.6E) with the central pressure of 998 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>29.6</geo:lat>
+    <geo:long>113.6</geo:long>
+    <georss:point>29.6 113.6</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>29.6 113.6</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>998</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-28T00:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-28 00:00 UTC</title>
+    <updated>2024-07-28T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072800&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-28T00:00:00+00:00, Typhoon 202403 (GAEMI) is located at (29.9N, 112.6E) with the central pressure of 1000 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>29.9</geo:lat>
+    <geo:long>112.6</geo:long>
+    <georss:point>29.9 112.6</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>29.9 112.6</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1000</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-28T06:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-28 06:00 UTC</title>
+    <updated>2024-07-28T06:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072806&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-28T06:00:00+00:00, Typhoon 202403 (GAEMI) is located at (29.5N, 110.9E) with the central pressure of 998 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>29.5</geo:lat>
+    <geo:long>110.9</geo:long>
+    <georss:point>29.5 110.9</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>29.5 110.9</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>998</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-28T12:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-28 12:00 UTC</title>
+    <updated>2024-07-28T12:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072812&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-28T12:00:00+00:00, Typhoon 202403 (GAEMI) is located at (29.8N, 109.5E) with the central pressure of 998 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>29.8</geo:lat>
+    <geo:long>109.5</geo:long>
+    <georss:point>29.8 109.5</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>29.8 109.5</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>998</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2024:track/wnp/202403/en/2024-07-28T18:00:00+00:00</id>
+    <title>Typhoon 202403 (GAEMI) : 2024-07-28 18:00 UTC</title>
+    <updated>2024-07-28T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW924072818&amp;id=202403&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2024-07-28T18:00:00+00:00, Typhoon 202403 (GAEMI) is located at (30.2N, 108.7E) with the central pressure of 998 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>30.2</geo:lat>
+    <geo:long>108.7</geo:long>
+    <georss:point>30.2 108.7</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>30.2 108.7</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>2</dt:class>

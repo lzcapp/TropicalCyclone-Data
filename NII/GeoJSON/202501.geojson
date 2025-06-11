@@ -1,0 +1,165 @@
+{
+   "features" : [
+      {
+         "geometry" : {
+            "coordinates" : [
+               115.1,
+               14.9
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "class" : 2,
+            "wind" : 30,
+            "display_time" : "2025-06-10 00:00 UTC",
+            "pressure" : 1000,
+            "time" : 1749513600
+         }
+      },
+      {
+         "properties" : {
+            "time" : 1749524400,
+            "pressure" : 1000,
+            "display_time" : "2025-06-10 03:00 UTC",
+            "wind" : 30,
+            "class" : 2
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               114.7,
+               15
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               114.5,
+               15.1
+            ]
+         },
+         "properties" : {
+            "pressure" : 998,
+            "class" : 2,
+            "wind" : 30,
+            "display_time" : "2025-06-10 06:00 UTC",
+            "time" : 1749535200
+         },
+         "type" : "Feature"
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "time" : 1749546000,
+            "class" : 2,
+            "wind" : 30,
+            "display_time" : "2025-06-10 09:00 UTC",
+            "pressure" : 998
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               114.2,
+               15.2
+            ]
+         }
+      },
+      {
+         "properties" : {
+            "time" : 1749556800,
+            "wind" : 30,
+            "display_time" : "2025-06-10 12:00 UTC",
+            "class" : 2,
+            "pressure" : 998
+         },
+         "type" : "Feature",
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               113.7,
+               15.4
+            ]
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               113.3,
+               15.4
+            ]
+         },
+         "type" : "Feature",
+         "properties" : {
+            "pressure" : 998,
+            "class" : 2,
+            "display_time" : "2025-06-10 15:00 UTC",
+            "wind" : 30,
+            "time" : 1749567600
+         }
+      },
+      {
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               113.1,
+               15.5
+            ]
+         },
+         "properties" : {
+            "time" : 1749578400,
+            "pressure" : 996,
+            "class" : 2,
+            "display_time" : "2025-06-10 18:00 UTC",
+            "wind" : 30
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               112.9,
+               15.7
+            ],
+            "type" : "Point"
+         },
+         "type" : "Feature",
+         "properties" : {
+            "time" : 1749589200,
+            "display_time" : "2025-06-10 21:00 UTC",
+            "wind" : 30,
+            "class" : 2,
+            "pressure" : 996
+         }
+      },
+      {
+         "type" : "Feature",
+         "properties" : {
+            "time" : 1749600000,
+            "pressure" : 994,
+            "class" : 3,
+            "display_time" : "2025-06-11 00:00 UTC",
+            "wind" : 35
+         },
+         "geometry" : {
+            "type" : "Point",
+            "coordinates" : [
+               113.9,
+               16.2
+            ]
+         }
+      }
+   ],
+   "type" : "FeatureCollection",
+   "properties" : {
+      "id" : "202501",
+      "display_name" : "Typhoon 202501 (WUTIP)",
+      "basin" : "wnp",
+      "name" : "WUTIP",
+      "url" : "https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202501.html.en"
+   }
+}

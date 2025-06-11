@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Style id="redIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/red3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/green3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/blue3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="yellowIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/yellow3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="magentaIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/magenta3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="cyanIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/cyan3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/gray3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Typhoon 202423 (TORAJI)</name>
+      <Folder>
+        <name>Typhoon 202423 (TORAJI) Observation Information</name>
+        <Placemark>
+          <name>[202423] 11/08 06UTC</name>
+          <TimeStamp>
+            <when>2024-11-08T06:00:00Z</when>
+          </TimeStamp>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924110806.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(14.5 N, 137.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=08&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-08 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>137.6,14.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/08 12UTC</name>
+          <TimeSpan>
+            <begin>2024-11-08T06:01:00Z</begin>
+            <end>2024-11-08T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924110812.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(14.5 N, 136 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=08&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-08 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>136,14.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/08 18UTC</name>
+          <TimeSpan>
+            <begin>2024-11-08T12:01:00Z</begin>
+            <end>2024-11-08T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924110818.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(14.5 N, 134.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=08&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-08 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>134.7,14.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/09 00UTC</name>
+          <TimeSpan>
+            <begin>2024-11-08T18:01:00Z</begin>
+            <end>2024-11-09T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924110900.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(14.5 N, 133.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=09&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-09 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>133.3,14.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/09 06UTC</name>
+          <TimeSpan>
+            <begin>2024-11-09T00:01:00Z</begin>
+            <end>2024-11-09T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924110906.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(14.6 N, 131.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=09&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-09 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>131.6,14.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/09 12UTC</name>
+          <TimeSpan>
+            <begin>2024-11-09T06:01:00Z</begin>
+            <end>2024-11-09T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924110912.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(14.7 N, 130.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=09&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-09 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>130.3,14.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/09 18UTC</name>
+          <TimeSpan>
+            <begin>2024-11-09T12:01:00Z</begin>
+            <end>2024-11-09T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924110918.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.1 N, 128.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=09&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-09 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>128.3,15.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/10 00UTC</name>
+          <TimeSpan>
+            <begin>2024-11-09T18:01:00Z</begin>
+            <end>2024-11-10T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111000.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.1 N, 126.9 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=10&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-10 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>126.9,15.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/10 06UTC</name>
+          <TimeSpan>
+            <begin>2024-11-10T00:01:00Z</begin>
+            <end>2024-11-10T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111006.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.2 N, 125.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=10&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-10 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>125.4,15.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/10 12UTC</name>
+          <TimeSpan>
+            <begin>2024-11-10T06:01:00Z</begin>
+            <end>2024-11-10T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111012.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.5 N, 124.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;985 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=10&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-10 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>124.3,15.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/10 18UTC</name>
+          <TimeSpan>
+            <begin>2024-11-10T12:01:00Z</begin>
+            <end>2024-11-10T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111018.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.9 N, 123.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=10&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-10 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.2,15.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/11 00UTC</name>
+          <TimeSpan>
+            <begin>2024-11-10T18:01:00Z</begin>
+            <end>2024-11-11T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(16.3 N, 122.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=11&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-11 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.3,16.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/11 06UTC</name>
+          <TimeSpan>
+            <begin>2024-11-11T00:01:00Z</begin>
+            <end>2024-11-11T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111106.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.1 N, 121.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=11&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-11 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>121.1,17.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/11 12UTC</name>
+          <TimeSpan>
+            <begin>2024-11-11T06:01:00Z</begin>
+            <end>2024-11-11T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111112.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.4 N, 119.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=11&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-11 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.7,17.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/11 18UTC</name>
+          <TimeSpan>
+            <begin>2024-11-11T12:01:00Z</begin>
+            <end>2024-11-11T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111118.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.2 N, 119.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=11&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-11 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.1,18.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/12 00UTC</name>
+          <TimeSpan>
+            <begin>2024-11-11T18:01:00Z</begin>
+            <end>2024-11-12T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111200.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.6 N, 118.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=12&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-12 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118.7,18.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/12 06UTC</name>
+          <TimeSpan>
+            <begin>2024-11-12T00:01:00Z</begin>
+            <end>2024-11-12T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111206.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(19.1 N, 118.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=12&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-12 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118.2,19.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/12 12UTC</name>
+          <TimeSpan>
+            <begin>2024-11-12T06:01:00Z</begin>
+            <end>2024-11-12T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111212.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(19.5 N, 117.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=12&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-12 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117.8,19.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/12 18UTC</name>
+          <TimeSpan>
+            <begin>2024-11-12T12:01:00Z</begin>
+            <end>2024-11-12T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111218.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(19.9 N, 117.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=12&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-12 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117.1,19.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/13 00UTC</name>
+          <TimeSpan>
+            <begin>2024-11-12T18:01:00Z</begin>
+            <end>2024-11-13T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111300.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(20.2 N, 116.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=13&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-13 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.3,20.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/13 06UTC</name>
+          <TimeSpan>
+            <begin>2024-11-13T00:01:00Z</begin>
+            <end>2024-11-13T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111306.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(20.7 N, 115.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=13&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-13 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>115.5,20.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/13 12UTC</name>
+          <TimeSpan>
+            <begin>2024-11-13T06:01:00Z</begin>
+            <end>2024-11-13T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111312.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(21 N, 114.9 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=13&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-13 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>114.9,21,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/13 18UTC</name>
+          <TimeSpan>
+            <begin>2024-11-13T12:01:00Z</begin>
+            <end>2024-11-13T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111318.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(21.1 N, 114.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=13&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-13 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>114.5,21.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/14 00UTC</name>
+          <TimeSpan>
+            <begin>2024-11-13T18:01:00Z</begin>
+            <end>2024-11-14T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111400.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(21.1 N, 114.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=14&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-14 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>114.1,21.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/14 06UTC</name>
+          <TimeSpan>
+            <begin>2024-11-14T00:01:00Z</begin>
+            <end>2024-11-14T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111406.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(21.2 N, 113.9 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=14&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-14 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>113.9,21.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/14 12UTC</name>
+          <TimeSpan>
+            <begin>2024-11-14T06:01:00Z</begin>
+            <end>2024-11-14T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111412.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(21.2 N, 113.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=14&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-14 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>113.6,21.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/14 18UTC</name>
+          <TimeSpan>
+            <begin>2024-11-14T12:01:00Z</begin>
+            <end>2024-11-14T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111418.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(21.1 N, 113.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=14&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-14 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>113.1,21.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/15 00UTC</name>
+          <TimeSpan>
+            <begin>2024-11-14T18:01:00Z</begin>
+            <end>2024-11-15T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111500.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(20.9 N, 113 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=15&amp;hour=00&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-15 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>113,20.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/15 06UTC</name>
+          <TimeSpan>
+            <begin>2024-11-15T00:01:00Z</begin>
+            <end>2024-11-15T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111506.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(20.6 N, 113.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=15&amp;hour=06&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-15 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>113.2,20.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202423] 11/15 12UTC</name>
+          <TimeSpan>
+            <begin>2024-11-15T06:01:00Z</begin>
+            <end>2024-11-15T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202423/1/128x128/HMW924111512.202423.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(20.3 N, 113.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2024&amp;month=11&amp;day=15&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2024-11-15 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202423.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202423 (TORAJI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>113.7,20.3,500</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>Typhoon 202423 (TORAJI) Track Information</name>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>cc779999</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>137.6,14.5,500 136,14.5,500 134.7,14.5,500 133.3,14.5,500 131.6,14.6,500 130.3,14.7,500 128.3,15.1,500 126.9,15.1,500 125.4,15.2,500 124.3,15.5,500 123.2,15.9,500 122.3,16.3,500 121.1,17.1,500 119.7,17.4,500 119.1,18.2,500 118.7,18.6,500 118.2,19.1,500 117.8,19.5,500 117.1,19.9,500 116.3,20.2,500 115.5,20.7,500 114.9,21,500 114.5,21.1,500 114.1,21.1,500 113.9,21.2,500 113.6,21.2,500 113.1,21.1,500 113,20.9,500 113.2,20.6,500 113.7,20.3,500</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
