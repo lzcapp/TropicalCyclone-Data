@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Style id="redIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/red3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/green3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/blue3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="yellowIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/yellow3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="magentaIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/magenta3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="cyanIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/cyan3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/gray3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Typhoon 202517 (MITAG)</name>
+      <Folder>
+        <name>Typhoon 202517 (MITAG) Observation Information</name>
+        <Placemark>
+          <name>[202517] 09/16 06UTC</name>
+          <TimeStamp>
+            <when>2025-09-16T06:00:00Z</when>
+          </TimeStamp>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091606.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.3 N, 123.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=16&amp;hour=6&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-16 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.7,15.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/16 09UTC</name>
+          <TimeSpan>
+            <begin>2025-09-16T06:01:00Z</begin>
+            <end>2025-09-16T09:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091609.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.6 N, 123.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=16&amp;hour=9&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-16 09:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>123.2,15.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/16 12UTC</name>
+          <TimeSpan>
+            <begin>2025-09-16T09:01:00Z</begin>
+            <end>2025-09-16T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091612.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.8 N, 122.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=16&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-16 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.8,15.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/16 15UTC</name>
+          <TimeSpan>
+            <begin>2025-09-16T12:01:00Z</begin>
+            <end>2025-09-16T15:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091615.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.8 N, 122.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=16&amp;hour=15&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-16 15:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.4,15.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/16 18UTC</name>
+          <TimeSpan>
+            <begin>2025-09-16T15:01:00Z</begin>
+            <end>2025-09-16T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091618.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(15.9 N, 122.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=16&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-16 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.2,15.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/16 21UTC</name>
+          <TimeSpan>
+            <begin>2025-09-16T18:01:00Z</begin>
+            <end>2025-09-16T21:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091621.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(16.3 N, 122 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=16&amp;hour=21&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-16 21:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122,16.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/17 00UTC</name>
+          <TimeSpan>
+            <begin>2025-09-16T21:01:00Z</begin>
+            <end>2025-09-17T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091700.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(16.4 N, 121.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=17&amp;hour=0&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-17 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>121.3,16.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/17 03UTC</name>
+          <TimeSpan>
+            <begin>2025-09-17T00:01:00Z</begin>
+            <end>2025-09-17T03:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091703.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(16.9 N, 121.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=17&amp;hour=3&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-17 03:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>121.3,16.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/17 06UTC</name>
+          <TimeSpan>
+            <begin>2025-09-17T03:01:00Z</begin>
+            <end>2025-09-17T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091706.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.4 N, 121.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=17&amp;hour=6&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-17 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>121.2,17.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/17 09UTC</name>
+          <TimeSpan>
+            <begin>2025-09-17T06:01:00Z</begin>
+            <end>2025-09-17T09:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091709.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18 N, 121 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=17&amp;hour=9&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-17 09:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>121,18,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/17 12UTC</name>
+          <TimeSpan>
+            <begin>2025-09-17T09:01:00Z</begin>
+            <end>2025-09-17T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091712.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.5 N, 120.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=17&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-17 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>120.8,18.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/17 15UTC</name>
+          <TimeSpan>
+            <begin>2025-09-17T12:01:00Z</begin>
+            <end>2025-09-17T15:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091715.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.9 N, 120.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1008 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=17&amp;hour=15&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-17 15:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>120.5,18.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/17 18UTC</name>
+          <TimeSpan>
+            <begin>2025-09-17T15:01:00Z</begin>
+            <end>2025-09-17T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091718.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.9 N, 120.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=17&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-17 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>120.3,18.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/17 21UTC</name>
+          <TimeSpan>
+            <begin>2025-09-17T18:01:00Z</begin>
+            <end>2025-09-17T21:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091721.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(19.3 N, 119.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=17&amp;hour=21&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-17 21:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.8,19.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/18 00UTC</name>
+          <TimeSpan>
+            <begin>2025-09-17T21:01:00Z</begin>
+            <end>2025-09-18T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091800.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(19.7 N, 119.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=18&amp;hour=0&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-18 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.4,19.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/18 03UTC</name>
+          <TimeSpan>
+            <begin>2025-09-18T00:01:00Z</begin>
+            <end>2025-09-18T03:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091803.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(19.7 N, 119 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=18&amp;hour=3&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-18 03:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119,19.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/18 06UTC</name>
+          <TimeSpan>
+            <begin>2025-09-18T03:01:00Z</begin>
+            <end>2025-09-18T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091806.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(19.8 N, 118.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=18&amp;hour=6&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-18 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118.8,19.8,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/18 09UTC</name>
+          <TimeSpan>
+            <begin>2025-09-18T06:01:00Z</begin>
+            <end>2025-09-18T09:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091809.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(20 N, 118.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=18&amp;hour=9&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-18 09:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>118.5,20,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/18 12UTC</name>
+          <TimeSpan>
+            <begin>2025-09-18T09:01:00Z</begin>
+            <end>2025-09-18T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091812.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(20.3 N, 117.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=18&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-18 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117.5,20.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/18 15UTC</name>
+          <TimeSpan>
+            <begin>2025-09-18T12:01:00Z</begin>
+            <end>2025-09-18T15:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091815.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(21 N, 117.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=18&amp;hour=15&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-18 15:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117.3,21,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/18 18UTC</name>
+          <TimeSpan>
+            <begin>2025-09-18T15:01:00Z</begin>
+            <end>2025-09-18T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091818.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(21.2 N, 116.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=18&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-18 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.7,21.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/18 21UTC</name>
+          <TimeSpan>
+            <begin>2025-09-18T18:01:00Z</begin>
+            <end>2025-09-18T21:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091821.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(21.6 N, 116.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=18&amp;hour=21&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-18 21:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.3,21.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/19 00UTC</name>
+          <TimeSpan>
+            <begin>2025-09-18T21:01:00Z</begin>
+            <end>2025-09-19T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091900.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(22.2 N, 116 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=19&amp;hour=0&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-19 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116,22.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/19 03UTC</name>
+          <TimeSpan>
+            <begin>2025-09-19T00:01:00Z</begin>
+            <end>2025-09-19T03:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091903.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(22.5 N, 115.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=19&amp;hour=3&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-19 03:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>115.5,22.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/19 06UTC</name>
+          <TimeSpan>
+            <begin>2025-09-19T03:01:00Z</begin>
+            <end>2025-09-19T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091906.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(22.7 N, 115.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=19&amp;hour=6&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-19 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>115.2,22.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/19 09UTC</name>
+          <TimeSpan>
+            <begin>2025-09-19T06:01:00Z</begin>
+            <end>2025-09-19T09:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091909.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(22.9 N, 115.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=19&amp;hour=9&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-19 09:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>115.1,22.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/19 12UTC</name>
+          <TimeSpan>
+            <begin>2025-09-19T09:01:00Z</begin>
+            <end>2025-09-19T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091912.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(23.2 N, 115 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=19&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-19 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>115,23.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/19 15UTC</name>
+          <TimeSpan>
+            <begin>2025-09-19T12:01:00Z</begin>
+            <end>2025-09-19T15:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202517/1/128x128/HMW925091915.202517.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(23.2 N, 114.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=19&amp;hour=15&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-19 15:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>114.7,23.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202517] 09/19 18UTC</name>
+          <TimeSpan>
+            <begin>2025-09-19T15:01:00Z</begin>
+            <end>2025-09-19T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(23 N, 114 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=9&amp;day=19&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-09-19 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202517.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202517 (MITAG)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>114,23,500</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>Typhoon 202517 (MITAG) Track Information</name>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>cc779999</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>123.7,15.3,500 123.2,15.6,500 122.8,15.8,500 122.4,15.8,500 122.2,15.9,500 122,16.3,500 121.3,16.4,500 121.3,16.9,500 121.2,17.4,500 121,18,500 120.8,18.5,500 120.5,18.9,500 120.3,18.9,500 119.8,19.3,500 119.4,19.7,500 119,19.7,500 118.8,19.8,500 118.5,20,500 117.5,20.3,500 117.3,21,500 116.7,21.2,500 116.3,21.6,500 116,22.2,500 115.5,22.5,500 115.2,22.7,500 115.1,22.9,500 115,23.2,500 114.7,23.2,500 114,23,500</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

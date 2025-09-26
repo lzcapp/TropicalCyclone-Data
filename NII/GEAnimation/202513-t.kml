@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <Style id="redIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/red3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="greenIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/green3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="blueIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/blue3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="yellowIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/yellow3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="magentaIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/magenta3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="cyanIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/cyan3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="grayIcon">
+      <IconStyle>
+        <Icon>
+          <href>https://agora.ex.nii.ac.jp/digital-typhoon/kml/icons/gray3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Typhoon 202513 (KAJIKI)</name>
+      <Folder>
+        <name>Typhoon 202513 (KAJIKI) Observation Information</name>
+        <Placemark>
+          <name>[202513] 08/22 00UTC</name>
+          <TimeStamp>
+            <when>2025-08-22T00:00:00Z</when>
+          </TimeStamp>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082200.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(16 N, 122.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1006 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=22&amp;hour=0&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-22 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.5,16,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/22 03UTC</name>
+          <TimeSpan>
+            <begin>2025-08-22T00:01:00Z</begin>
+            <end>2025-08-22T03:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082203.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(16.5 N, 122.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=22&amp;hour=3&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-22 03:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>122.4,16.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/22 06UTC</name>
+          <TimeSpan>
+            <begin>2025-08-22T03:01:00Z</begin>
+            <end>2025-08-22T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082206.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(16.9 N, 121.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=22&amp;hour=6&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-22 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>121.7,16.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/22 09UTC</name>
+          <TimeSpan>
+            <begin>2025-08-22T06:01:00Z</begin>
+            <end>2025-08-22T09:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082209.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.3 N, 120.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=22&amp;hour=9&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-22 09:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>120.2,17.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/22 12UTC</name>
+          <TimeSpan>
+            <begin>2025-08-22T09:01:00Z</begin>
+            <end>2025-08-22T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082212.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.6 N, 119.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=22&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-22 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119.4,17.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/22 15UTC</name>
+          <TimeSpan>
+            <begin>2025-08-22T12:01:00Z</begin>
+            <end>2025-08-22T15:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082215.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.3 N, 119 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1004 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=22&amp;hour=15&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-22 15:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>119,17.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/22 18UTC</name>
+          <TimeSpan>
+            <begin>2025-08-22T15:01:00Z</begin>
+            <end>2025-08-22T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082218.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.3 N, 117.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=22&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-22 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>117.8,17.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/22 21UTC</name>
+          <TimeSpan>
+            <begin>2025-08-22T18:01:00Z</begin>
+            <end>2025-08-22T21:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082221.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.2 N, 116.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;30 kt (15 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=22&amp;hour=21&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-22 21:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.7,17.2,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/23 00UTC</name>
+          <TimeSpan>
+            <begin>2025-08-22T21:01:00Z</begin>
+            <end>2025-08-23T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082300.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.6 N, 116.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=23&amp;hour=0&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-23 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.4,17.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/23 03UTC</name>
+          <TimeSpan>
+            <begin>2025-08-23T00:01:00Z</begin>
+            <end>2025-08-23T03:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082303.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.6 N, 115.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;994 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=23&amp;hour=3&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-23 03:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>115.6,17.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/23 06UTC</name>
+          <TimeSpan>
+            <begin>2025-08-23T03:01:00Z</begin>
+            <end>2025-08-23T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082306.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.6 N, 114.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=23&amp;hour=6&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-23 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>114.4,17.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/23 09UTC</name>
+          <TimeSpan>
+            <begin>2025-08-23T06:01:00Z</begin>
+            <end>2025-08-23T09:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082309.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.7 N, 113.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=23&amp;hour=9&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-23 09:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>113.8,17.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/23 12UTC</name>
+          <TimeSpan>
+            <begin>2025-08-23T09:01:00Z</begin>
+            <end>2025-08-23T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082312.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.7 N, 113.4 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;985 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=23&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-23 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>113.4,17.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/23 15UTC</name>
+          <TimeSpan>
+            <begin>2025-08-23T12:01:00Z</begin>
+            <end>2025-08-23T15:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082315.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.4 N, 112.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;55 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=23&amp;hour=15&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-23 15:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>112.8,17.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/23 18UTC</name>
+          <TimeSpan>
+            <begin>2025-08-23T15:01:00Z</begin>
+            <end>2025-08-23T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082318.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.5 N, 112.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;975 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=23&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-23 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>112.2,17.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/23 21UTC</name>
+          <TimeSpan>
+            <begin>2025-08-23T18:01:00Z</begin>
+            <end>2025-08-23T21:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082321.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.6 N, 111.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;65 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=23&amp;hour=21&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-23 21:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>111.6,17.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/24 00UTC</name>
+          <TimeSpan>
+            <begin>2025-08-23T21:01:00Z</begin>
+            <end>2025-08-24T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082400.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.3 N, 111.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;965 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=24&amp;hour=0&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-24 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>111.2,17.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/24 03UTC</name>
+          <TimeSpan>
+            <begin>2025-08-24T00:01:00Z</begin>
+            <end>2025-08-24T03:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082403.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.3 N, 110.7 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;960 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;75 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=24&amp;hour=3&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-24 03:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>110.7,17.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/24 06UTC</name>
+          <TimeSpan>
+            <begin>2025-08-24T03:01:00Z</begin>
+            <end>2025-08-24T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082406.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.4 N, 110.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=24&amp;hour=6&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-24 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>110.3,17.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/24 09UTC</name>
+          <TimeSpan>
+            <begin>2025-08-24T06:01:00Z</begin>
+            <end>2025-08-24T09:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082409.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.6 N, 109.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=24&amp;hour=9&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-24 09:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>109.8,17.6,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/24 12UTC</name>
+          <TimeSpan>
+            <begin>2025-08-24T09:01:00Z</begin>
+            <end>2025-08-24T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082412.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(17.9 N, 109.3 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=24&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-24 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>109.3,17.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/24 15UTC</name>
+          <TimeSpan>
+            <begin>2025-08-24T12:01:00Z</begin>
+            <end>2025-08-24T15:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082415.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18 N, 108.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=24&amp;hour=15&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-24 15:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>108.6,18,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/24 18UTC</name>
+          <TimeSpan>
+            <begin>2025-08-24T15:01:00Z</begin>
+            <end>2025-08-24T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082418.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.1 N, 108.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=24&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-24 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>108.2,18.1,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/24 21UTC</name>
+          <TimeSpan>
+            <begin>2025-08-24T18:01:00Z</begin>
+            <end>2025-08-24T21:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082421.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.3 N, 107.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=24&amp;hour=21&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-24 21:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>107.8,18.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/25 00UTC</name>
+          <TimeSpan>
+            <begin>2025-08-24T21:01:00Z</begin>
+            <end>2025-08-25T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082500.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.4 N, 107.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=25&amp;hour=0&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-25 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>107.2,18.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/25 03UTC</name>
+          <TimeSpan>
+            <begin>2025-08-25T00:01:00Z</begin>
+            <end>2025-08-25T03:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082503.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.4 N, 106.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;950 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;80 kt (40 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=25&amp;hour=3&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-25 03:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>106.8,18.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/25 06UTC</name>
+          <TimeSpan>
+            <begin>2025-08-25T03:01:00Z</begin>
+            <end>2025-08-25T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082506.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.5 N, 106.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=25&amp;hour=6&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-25 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>106.2,18.5,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/25 09UTC</name>
+          <TimeSpan>
+            <begin>2025-08-25T06:01:00Z</begin>
+            <end>2025-08-25T09:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082509.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Typhoon&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.3 N, 105.9 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;970 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;70 kt (35 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=25&amp;hour=9&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-25 09:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#redIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>105.9,18.3,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/25 12UTC</name>
+          <TimeSpan>
+            <begin>2025-08-25T09:01:00Z</begin>
+            <end>2025-08-25T12:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082512.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.4 N, 105.8 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;980 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;60 kt (30 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=25&amp;hour=12&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-25 12:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>105.8,18.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/25 15UTC</name>
+          <TimeSpan>
+            <begin>2025-08-25T12:01:00Z</begin>
+            <end>2025-08-25T15:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082515.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Severe Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.4 N, 105.6 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;990 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;50 kt (25 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=25&amp;hour=15&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-25 15:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#yellowIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>105.6,18.4,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/25 18UTC</name>
+          <TimeSpan>
+            <begin>2025-08-25T15:01:00Z</begin>
+            <end>2025-08-25T18:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082518.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.7 N, 104.9 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;992 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;45 kt (23 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=25&amp;hour=18&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-25 18:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>104.9,18.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/25 21UTC</name>
+          <TimeSpan>
+            <begin>2025-08-25T18:01:00Z</begin>
+            <end>2025-08-25T21:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082521.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.7 N, 104.1 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;996 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;40 kt (20 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=25&amp;hour=21&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-25 21:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>104.1,18.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/26 00UTC</name>
+          <TimeSpan>
+            <begin>2025-08-25T21:01:00Z</begin>
+            <end>2025-08-26T00:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082600.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.7 N, 103.2 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;998 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=26&amp;hour=0&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-26 00:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>103.2,18.7,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/26 03UTC</name>
+          <TimeSpan>
+            <begin>2025-08-26T00:01:00Z</begin>
+            <end>2025-08-26T03:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;&lt;img src="https://agora.ex.nii.ac.jp/digital-typhoon/wnp/by-name/202513/1/128x128/HMW925082603.202513.jpg" /&gt;&lt;/td&gt;
+&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Storm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(18.9 N, 102.5 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1000 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;35 kt (18 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=26&amp;hour=3&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-26 03:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#greenIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>102.5,18.9,500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>[202513] 08/26 06UTC</name>
+          <TimeSpan>
+            <begin>2025-08-26T03:01:00Z</begin>
+            <end>2025-08-26T06:00:00Z</end>
+          </TimeSpan>
+          <description>&lt;table border="1" cellspacing="1"&gt;
+&lt;tr&gt;&lt;th&gt;Category&lt;/th&gt;&lt;td&gt;Tropical Depression&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Position&lt;/th&gt;&lt;td&gt;(19 N, 102 E)&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Central Pressure&lt;/th&gt;&lt;td&gt;1002 hPa&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th&gt;Maximum Wind&lt;/th&gt;&lt;td&gt;0 kt (0 m/s)&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/cgi-bin/dt/create_index.pl?lang=en&amp;year=2025&amp;month=8&amp;day=26&amp;hour=6&amp;basin=wnp&amp;tz=utc"&gt;Digital Typhoon: Images and information on 2025-08-26 06:00 UTC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202513.html.en"&gt;Digital Typhoon: Images and information of Typhoon 202513 (KAJIKI)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+          <styleUrl>#blueIcon</styleUrl>
+          <Point>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>102,19,500</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Placemark>
+        <name>Typhoon 202513 (KAJIKI) Track Information</name>
+        <visibility>1</visibility>
+        <Style>
+          <LineStyle>
+            <color>cc779999</color>
+            <width>3</width>
+          </LineStyle>
+        </Style>
+        <LineString>
+          <tessellate>1</tessellate>
+          <extrude>0</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>122.5,16,500 122.4,16.5,500 121.7,16.9,500 120.2,17.3,500 119.4,17.6,500 119,17.3,500 117.8,17.3,500 116.7,17.2,500 116.4,17.6,500 115.6,17.6,500 114.4,17.6,500 113.8,17.7,500 113.4,17.7,500 112.8,17.4,500 112.2,17.5,500 111.6,17.6,500 111.2,17.3,500 110.7,17.3,500 110.3,17.4,500 109.8,17.6,500 109.3,17.9,500 108.6,18,500 108.2,18.1,500 107.8,18.3,500 107.2,18.4,500 106.8,18.4,500 106.2,18.5,500 105.9,18.3,500 105.8,18.4,500 105.6,18.4,500 104.9,18.7,500 104.1,18.7,500 103.2,18.7,500 102.5,18.9,500 102,19,500</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
