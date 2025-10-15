@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:dt="http://www.digital-typhoon.org/ns">
   <title>Digital Typhoon</title>
   <subtitle>Typhoon 202503 (MUN) Best Track</subtitle>
-  <updated>2025-07-08T00:00:00+00:00</updated>
+  <updated>2025-10-09T00:00:00Z</updated>
   <rights>Copyright (C) 2001-2025 KITAMOTO Asanobu. All Rights Reserved.</rights>
   <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/digital-typhoon/summary/wnp/s/202503.html.en"/>
   <link rel="self" type="application/atom+xml" href="https://agora.ex.nii.ac.jp/digital-typhoon/atom/typhoon/wnp/202503.en.atom"/>
@@ -17,72 +17,52 @@
     <uri>http://www.jma.go.jp/</uri>
   </contributor>
   <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-01T00:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-01 00:00 UTC</title>
+    <updated>2025-07-01T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070100&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-01T00:00:00+00:00, Typhoon 202503 (MUN) is located at (21.8N, 148.8E) with the central pressure of 1010 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>21.8</geo:lat>
+    <geo:long>148.8</geo:long>
+    <georss:point>21.8 148.8</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>21.8 148.8</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1010</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-01T06:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-01 06:00 UTC</title>
+    <updated>2025-07-01T06:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070106&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-01T06:00:00+00:00, Typhoon 202503 (MUN) is located at (22.7N, 148.2E) with the central pressure of 1008 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>22.7</geo:lat>
+    <geo:long>148.2</geo:long>
+    <georss:point>22.7 148.2</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>22.7 148.2</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1008</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
     <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-01T12:00:00+00:00</id>
     <title>Typhoon 202503 (MUN) : 2025-07-01 12:00 UTC</title>
     <updated>2025-07-01T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070112&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-01T12:00:00+00:00, Typhoon 202503 (MUN) is located at (22.6N, 148.2E) with the central pressure of 1006 hPa and the maximum wind speed of 30 kt. </div>
-    </content>
-    <geo:lat>22.6</geo:lat>
-    <geo:long>148.2</geo:long>
-    <georss:point>22.6 148.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>22.6 148.2</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1006</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-01T15:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-01 15:00 UTC</title>
-    <updated>2025-07-01T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070115&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-01T15:00:00+00:00, Typhoon 202503 (MUN) is located at (22.9N, 148.2E) with the central pressure of 1006 hPa and the maximum wind speed of 30 kt. </div>
-    </content>
-    <geo:lat>22.9</geo:lat>
-    <geo:long>148.2</geo:long>
-    <georss:point>22.9 148.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>22.9 148.2</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1006</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-01T18:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-01 18:00 UTC</title>
-    <updated>2025-07-01T18:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070118&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-01T18:00:00+00:00, Typhoon 202503 (MUN) is located at (23.1N, 148.1E) with the central pressure of 1004 hPa and the maximum wind speed of 30 kt. </div>
-    </content>
-    <geo:lat>23.1</geo:lat>
-    <geo:long>148.1</geo:long>
-    <georss:point>23.1 148.1</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>23.1 148.1</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1004</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-01T21:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-01 21:00 UTC</title>
-    <updated>2025-07-01T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070121&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-01T21:00:00+00:00, Typhoon 202503 (MUN) is located at (23.4N, 148.0E) with the central pressure of 1004 hPa and the maximum wind speed of 30 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-01T12:00:00+00:00, Typhoon 202503 (MUN) is located at (23.4N, 148.0E) with the central pressure of 1008 hPa and the maximum wind speed of 0 kt. </div>
     </content>
     <geo:lat>23.4</geo:lat>
     <geo:long>148.0</geo:long>
@@ -93,8 +73,28 @@
       </gml:Point>
     </georss:where>
     <dt:class>2</dt:class>
-    <dt:pressure>1004</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
+    <dt:pressure>1008</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-01T18:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-01 18:00 UTC</title>
+    <updated>2025-07-01T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070118&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-01T18:00:00+00:00, Typhoon 202503 (MUN) is located at (24.3N, 147.5E) with the central pressure of 1006 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>24.3</geo:lat>
+    <geo:long>147.5</geo:long>
+    <georss:point>24.3 147.5</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>24.3 147.5</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>2</dt:class>
+    <dt:pressure>1006</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-02T00:00:00+00:00</id>
@@ -102,39 +102,19 @@
     <updated>2025-07-02T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070200&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T00:00:00+00:00, Typhoon 202503 (MUN) is located at (24.5N, 147.5E) with the central pressure of 1006 hPa and the maximum wind speed of 30 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T00:00:00+00:00, Typhoon 202503 (MUN) is located at (24.9N, 147.4E) with the central pressure of 1006 hPa and the maximum wind speed of 0 kt. </div>
     </content>
-    <geo:lat>24.5</geo:lat>
-    <geo:long>147.5</geo:long>
-    <georss:point>24.5 147.5</georss:point>
+    <geo:lat>24.9</geo:lat>
+    <geo:long>147.4</geo:long>
+    <georss:point>24.9 147.4</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>24.5 147.5</gml:pos>
+        <gml:pos>24.9 147.4</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>2</dt:class>
     <dt:pressure>1006</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-02T03:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-02 03:00 UTC</title>
-    <updated>2025-07-02T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070203&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T03:00:00+00:00, Typhoon 202503 (MUN) is located at (25.5N, 147.0E) with the central pressure of 1006 hPa and the maximum wind speed of 30 kt. </div>
-    </content>
-    <geo:lat>25.5</geo:lat>
-    <geo:long>147.0</geo:long>
-    <georss:point>25.5 147.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>25.5 147.0</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1006</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
+    <dt:wind mps="0">0</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-02T06:00:00+00:00</id>
@@ -142,39 +122,19 @@
     <updated>2025-07-02T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070206&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T06:00:00+00:00, Typhoon 202503 (MUN) is located at (25.6N, 146.9E) with the central pressure of 1004 hPa and the maximum wind speed of 30 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T06:00:00+00:00, Typhoon 202503 (MUN) is located at (25.6N, 146.8E) with the central pressure of 1004 hPa and the maximum wind speed of 35 kt. </div>
     </content>
     <geo:lat>25.6</geo:lat>
-    <geo:long>146.9</geo:long>
-    <georss:point>25.6 146.9</georss:point>
+    <geo:long>146.8</geo:long>
+    <georss:point>25.6 146.8</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>25.6 146.9</gml:pos>
+        <gml:pos>25.6 146.8</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>2</dt:class>
+    <dt:class>3</dt:class>
     <dt:pressure>1004</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-02T09:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-02 09:00 UTC</title>
-    <updated>2025-07-02T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070209&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T09:00:00+00:00, Typhoon 202503 (MUN) is located at (25.9N, 146.7E) with the central pressure of 1004 hPa and the maximum wind speed of 30 kt. </div>
-    </content>
-    <geo:lat>25.9</geo:lat>
-    <geo:long>146.7</geo:long>
-    <georss:point>25.9 146.7</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>25.9 146.7</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1004</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
+    <dt:wind mps="17">35</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-02T12:00:00+00:00</id>
@@ -182,7 +142,7 @@
     <updated>2025-07-02T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070212&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T12:00:00+00:00, Typhoon 202503 (MUN) is located at (26.1N, 146.4E) with the central pressure of 1004 hPa and the maximum wind speed of 30 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T12:00:00+00:00, Typhoon 202503 (MUN) is located at (26.1N, 146.4E) with the central pressure of 1004 hPa and the maximum wind speed of 35 kt. </div>
     </content>
     <geo:lat>26.1</geo:lat>
     <geo:long>146.4</geo:long>
@@ -192,29 +152,9 @@
         <gml:pos>26.1 146.4</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>2</dt:class>
+    <dt:class>3</dt:class>
     <dt:pressure>1004</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-02T15:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-02 15:00 UTC</title>
-    <updated>2025-07-02T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070215&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T15:00:00+00:00, Typhoon 202503 (MUN) is located at (26.6N, 145.8E) with the central pressure of 1004 hPa and the maximum wind speed of 30 kt. </div>
-    </content>
-    <geo:lat>26.6</geo:lat>
-    <geo:long>145.8</geo:long>
-    <georss:point>26.6 145.8</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>26.6 145.8</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>2</dt:class>
-    <dt:pressure>1004</dt:pressure>
-    <dt:wind mps="15">30</dt:wind>
+    <dt:wind mps="17">35</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-02T18:00:00+00:00</id>
@@ -222,34 +162,14 @@
     <updated>2025-07-02T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070218&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T18:00:00+00:00, Typhoon 202503 (MUN) is located at (26.8N, 145.6E) with the central pressure of 1002 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T18:00:00+00:00, Typhoon 202503 (MUN) is located at (26.5N, 145.9E) with the central pressure of 1002 hPa and the maximum wind speed of 35 kt. </div>
     </content>
-    <geo:lat>26.8</geo:lat>
-    <geo:long>145.6</geo:long>
-    <georss:point>26.8 145.6</georss:point>
+    <geo:lat>26.5</geo:lat>
+    <geo:long>145.9</geo:long>
+    <georss:point>26.5 145.9</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>26.8 145.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>1002</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-02T21:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-02 21:00 UTC</title>
-    <updated>2025-07-02T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070221&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-02T21:00:00+00:00, Typhoon 202503 (MUN) is located at (26.9N, 145.2E) with the central pressure of 1002 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>26.9</geo:lat>
-    <geo:long>145.2</geo:long>
-    <georss:point>26.9 145.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>26.9 145.2</gml:pos>
+        <gml:pos>26.5 145.9</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -262,38 +182,18 @@
     <updated>2025-07-03T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070300&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T00:00:00+00:00, Typhoon 202503 (MUN) is located at (27.0N, 145.2E) with the central pressure of 1000 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T00:00:00+00:00, Typhoon 202503 (MUN) is located at (26.9N, 145.5E) with the central pressure of 1000 hPa and the maximum wind speed of 40 kt. </div>
     </content>
-    <geo:lat>27.0</geo:lat>
-    <geo:long>145.2</geo:long>
-    <georss:point>27.0 145.2</georss:point>
+    <geo:lat>26.9</geo:lat>
+    <geo:long>145.5</geo:long>
+    <georss:point>26.9 145.5</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>27.0 145.2</gml:pos>
+        <gml:pos>26.9 145.5</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
     <dt:pressure>1000</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-03T03:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-03 03:00 UTC</title>
-    <updated>2025-07-03T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070303&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T03:00:00+00:00, Typhoon 202503 (MUN) is located at (27.2N, 145.4E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>27.2</geo:lat>
-    <geo:long>145.4</geo:long>
-    <georss:point>27.2 145.4</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>27.2 145.4</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
     <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
@@ -302,34 +202,14 @@
     <updated>2025-07-03T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070306&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T06:00:00+00:00, Typhoon 202503 (MUN) is located at (27.7N, 145.6E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T06:00:00+00:00, Typhoon 202503 (MUN) is located at (27.7N, 145.5E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
     </content>
     <geo:lat>27.7</geo:lat>
-    <geo:long>145.6</geo:long>
-    <georss:point>27.7 145.6</georss:point>
+    <geo:long>145.5</geo:long>
+    <georss:point>27.7 145.5</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>27.7 145.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-03T09:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-03 09:00 UTC</title>
-    <updated>2025-07-03T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070309&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T09:00:00+00:00, Typhoon 202503 (MUN) is located at (28.1N, 145.6E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>28.1</geo:lat>
-    <geo:long>145.6</geo:long>
-    <georss:point>28.1 145.6</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>28.1 145.6</gml:pos>
+        <gml:pos>27.7 145.5</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -342,34 +222,14 @@
     <updated>2025-07-03T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070312&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T12:00:00+00:00, Typhoon 202503 (MUN) is located at (28.3N, 145.4E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T12:00:00+00:00, Typhoon 202503 (MUN) is located at (28.4N, 145.4E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
     </content>
-    <geo:lat>28.3</geo:lat>
+    <geo:lat>28.4</geo:lat>
     <geo:long>145.4</geo:long>
-    <georss:point>28.3 145.4</georss:point>
+    <georss:point>28.4 145.4</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>28.3 145.4</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-03T15:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-03 15:00 UTC</title>
-    <updated>2025-07-03T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070315&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T15:00:00+00:00, Typhoon 202503 (MUN) is located at (28.6N, 145.2E) with the central pressure of 998 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>28.6</geo:lat>
-    <geo:long>145.2</geo:long>
-    <georss:point>28.6 145.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>28.6 145.2</gml:pos>
+        <gml:pos>28.4 145.4</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -382,34 +242,14 @@
     <updated>2025-07-03T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070318&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T18:00:00+00:00, Typhoon 202503 (MUN) is located at (29.0N, 145.0E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T18:00:00+00:00, Typhoon 202503 (MUN) is located at (29.0N, 145.1E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
     </content>
     <geo:lat>29.0</geo:lat>
-    <geo:long>145.0</geo:long>
-    <georss:point>29.0 145.0</georss:point>
+    <geo:long>145.1</geo:long>
+    <georss:point>29.0 145.1</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>29.0 145.0</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-03T21:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-03 21:00 UTC</title>
-    <updated>2025-07-03T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070321&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-03T21:00:00+00:00, Typhoon 202503 (MUN) is located at (29.4N, 145.0E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>29.4</geo:lat>
-    <geo:long>145.0</geo:long>
-    <georss:point>29.4 145.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>29.4 145.0</gml:pos>
+        <gml:pos>29.0 145.1</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -422,34 +262,14 @@
     <updated>2025-07-04T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070400&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T00:00:00+00:00, Typhoon 202503 (MUN) is located at (29.7N, 145.1E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T00:00:00+00:00, Typhoon 202503 (MUN) is located at (29.7N, 145.2E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
     </content>
     <geo:lat>29.7</geo:lat>
-    <geo:long>145.1</geo:long>
-    <georss:point>29.7 145.1</georss:point>
+    <geo:long>145.2</geo:long>
+    <georss:point>29.7 145.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>29.7 145.1</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-04T03:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-04 03:00 UTC</title>
-    <updated>2025-07-04T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070403&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T03:00:00+00:00, Typhoon 202503 (MUN) is located at (29.9N, 145.3E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>29.9</geo:lat>
-    <geo:long>145.3</geo:long>
-    <georss:point>29.9 145.3</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>29.9 145.3</gml:pos>
+        <gml:pos>29.7 145.2</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -477,59 +297,19 @@
     <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-04T09:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-04 09:00 UTC</title>
-    <updated>2025-07-04T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070409&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T09:00:00+00:00, Typhoon 202503 (MUN) is located at (30.4N, 145.5E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>30.4</geo:lat>
-    <geo:long>145.5</geo:long>
-    <georss:point>30.4 145.5</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>30.4 145.5</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
     <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-04T12:00:00+00:00</id>
     <title>Typhoon 202503 (MUN) : 2025-07-04 12:00 UTC</title>
     <updated>2025-07-04T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070412&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T12:00:00+00:00, Typhoon 202503 (MUN) is located at (30.7N, 145.7E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T12:00:00+00:00, Typhoon 202503 (MUN) is located at (30.5N, 145.7E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
     </content>
-    <geo:lat>30.7</geo:lat>
+    <geo:lat>30.5</geo:lat>
     <geo:long>145.7</geo:long>
-    <georss:point>30.7 145.7</georss:point>
+    <georss:point>30.5 145.7</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>30.7 145.7</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-04T15:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-04 15:00 UTC</title>
-    <updated>2025-07-04T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070415&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T15:00:00+00:00, Typhoon 202503 (MUN) is located at (30.9N, 145.8E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>30.9</geo:lat>
-    <geo:long>145.8</geo:long>
-    <georss:point>30.9 145.8</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>30.9 145.8</gml:pos>
+        <gml:pos>30.5 145.7</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -542,34 +322,14 @@
     <updated>2025-07-04T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070418&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T18:00:00+00:00, Typhoon 202503 (MUN) is located at (31.1N, 145.8E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T18:00:00+00:00, Typhoon 202503 (MUN) is located at (30.8N, 146.0E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
     </content>
-    <geo:lat>31.1</geo:lat>
-    <geo:long>145.8</geo:long>
-    <georss:point>31.1 145.8</georss:point>
+    <geo:lat>30.8</geo:lat>
+    <geo:long>146.0</geo:long>
+    <georss:point>30.8 146.0</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>31.1 145.8</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-04T21:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-04 21:00 UTC</title>
-    <updated>2025-07-04T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070421&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-04T21:00:00+00:00, Typhoon 202503 (MUN) is located at (31.1N, 146.2E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>31.1</geo:lat>
-    <geo:long>146.2</geo:long>
-    <georss:point>31.1 146.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>31.1 146.2</gml:pos>
+        <gml:pos>30.8 146.0</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -582,34 +342,14 @@
     <updated>2025-07-05T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070500&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T00:00:00+00:00, Typhoon 202503 (MUN) is located at (31.0N, 146.2E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>31.0</geo:lat>
-    <geo:long>146.2</geo:long>
-    <georss:point>31.0 146.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>31.0 146.2</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-05T03:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-05 03:00 UTC</title>
-    <updated>2025-07-05T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070503&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T03:00:00+00:00, Typhoon 202503 (MUN) is located at (31.1N, 146.7E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T00:00:00+00:00, Typhoon 202503 (MUN) is located at (31.1N, 146.3E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
     </content>
     <geo:lat>31.1</geo:lat>
-    <geo:long>146.7</geo:long>
-    <georss:point>31.1 146.7</georss:point>
+    <geo:long>146.3</geo:long>
+    <georss:point>31.1 146.3</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>31.1 146.7</gml:pos>
+        <gml:pos>31.1 146.3</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -637,59 +377,19 @@
     <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-05T09:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-05 09:00 UTC</title>
-    <updated>2025-07-05T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070509&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T09:00:00+00:00, Typhoon 202503 (MUN) is located at (31.0N, 147.6E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>31.0</geo:lat>
-    <geo:long>147.6</geo:long>
-    <georss:point>31.0 147.6</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>31.0 147.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
     <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-05T12:00:00+00:00</id>
     <title>Typhoon 202503 (MUN) : 2025-07-05 12:00 UTC</title>
     <updated>2025-07-05T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070512&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T12:00:00+00:00, Typhoon 202503 (MUN) is located at (31.1N, 148.1E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T12:00:00+00:00, Typhoon 202503 (MUN) is located at (31.2N, 148.0E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
     </content>
-    <geo:lat>31.1</geo:lat>
-    <geo:long>148.1</geo:long>
-    <georss:point>31.1 148.1</georss:point>
+    <geo:lat>31.2</geo:lat>
+    <geo:long>148.0</geo:long>
+    <georss:point>31.2 148.0</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>31.1 148.1</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-05T15:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-05 15:00 UTC</title>
-    <updated>2025-07-05T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070515&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T15:00:00+00:00, Typhoon 202503 (MUN) is located at (31.3N, 148.4E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>31.3</geo:lat>
-    <geo:long>148.4</geo:long>
-    <georss:point>31.3 148.4</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>31.3 148.4</gml:pos>
+        <gml:pos>31.2 148.0</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -702,34 +402,14 @@
     <updated>2025-07-05T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070518&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T18:00:00+00:00, Typhoon 202503 (MUN) is located at (31.9N, 148.7E) with the central pressure of 992 hPa and the maximum wind speed of 45 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T18:00:00+00:00, Typhoon 202503 (MUN) is located at (31.7N, 148.8E) with the central pressure of 992 hPa and the maximum wind speed of 45 kt. </div>
     </content>
-    <geo:lat>31.9</geo:lat>
-    <geo:long>148.7</geo:long>
-    <georss:point>31.9 148.7</georss:point>
+    <geo:lat>31.7</geo:lat>
+    <geo:long>148.8</geo:long>
+    <georss:point>31.7 148.8</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>31.9 148.7</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>992</dt:pressure>
-    <dt:wind mps="22">45</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-05T21:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-05 21:00 UTC</title>
-    <updated>2025-07-05T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070521&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-05T21:00:00+00:00, Typhoon 202503 (MUN) is located at (32.0N, 149.0E) with the central pressure of 992 hPa and the maximum wind speed of 45 kt. </div>
-    </content>
-    <geo:lat>32.0</geo:lat>
-    <geo:long>149.0</geo:long>
-    <georss:point>32.0 149.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>32.0 149.0</gml:pos>
+        <gml:pos>31.7 148.8</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -742,34 +422,14 @@
     <updated>2025-07-06T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070600&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T00:00:00+00:00, Typhoon 202503 (MUN) is located at (32.1N, 149.2E) with the central pressure of 992 hPa and the maximum wind speed of 45 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T00:00:00+00:00, Typhoon 202503 (MUN) is located at (32.2N, 149.2E) with the central pressure of 992 hPa and the maximum wind speed of 45 kt. </div>
     </content>
-    <geo:lat>32.1</geo:lat>
+    <geo:lat>32.2</geo:lat>
     <geo:long>149.2</geo:long>
-    <georss:point>32.1 149.2</georss:point>
+    <georss:point>32.2 149.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>32.1 149.2</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>992</dt:pressure>
-    <dt:wind mps="22">45</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-06T03:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-06 03:00 UTC</title>
-    <updated>2025-07-06T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070603&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T03:00:00+00:00, Typhoon 202503 (MUN) is located at (32.4N, 149.2E) with the central pressure of 992 hPa and the maximum wind speed of 45 kt. </div>
-    </content>
-    <geo:lat>32.4</geo:lat>
-    <geo:long>149.2</geo:long>
-    <georss:point>32.4 149.2</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>32.4 149.2</gml:pos>
+        <gml:pos>32.2 149.2</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -782,34 +442,14 @@
     <updated>2025-07-06T06:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070606&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T06:00:00+00:00, Typhoon 202503 (MUN) is located at (32.5N, 149.3E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T06:00:00+00:00, Typhoon 202503 (MUN) is located at (32.6N, 149.6E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
     </content>
-    <geo:lat>32.5</geo:lat>
-    <geo:long>149.3</geo:long>
-    <georss:point>32.5 149.3</georss:point>
+    <geo:lat>32.6</geo:lat>
+    <geo:long>149.6</geo:long>
+    <georss:point>32.6 149.6</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>32.5 149.3</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>990</dt:pressure>
-    <dt:wind mps="25">50</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-06T09:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-06 09:00 UTC</title>
-    <updated>2025-07-06T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070609&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T09:00:00+00:00, Typhoon 202503 (MUN) is located at (32.8N, 149.5E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
-    </content>
-    <geo:lat>32.8</geo:lat>
-    <geo:long>149.5</geo:long>
-    <georss:point>32.8 149.5</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>32.8 149.5</gml:pos>
+        <gml:pos>32.6 149.6</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>4</dt:class>
@@ -822,34 +462,14 @@
     <updated>2025-07-06T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070612&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T12:00:00+00:00, Typhoon 202503 (MUN) is located at (33.3N, 149.6E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T12:00:00+00:00, Typhoon 202503 (MUN) is located at (33.4N, 149.6E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
     </content>
-    <geo:lat>33.3</geo:lat>
+    <geo:lat>33.4</geo:lat>
     <geo:long>149.6</geo:long>
-    <georss:point>33.3 149.6</georss:point>
+    <georss:point>33.4 149.6</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>33.3 149.6</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>990</dt:pressure>
-    <dt:wind mps="25">50</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-06T15:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-06 15:00 UTC</title>
-    <updated>2025-07-06T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070615&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T15:00:00+00:00, Typhoon 202503 (MUN) is located at (33.6N, 149.7E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
-    </content>
-    <geo:lat>33.6</geo:lat>
-    <geo:long>149.7</geo:long>
-    <georss:point>33.6 149.7</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>33.6 149.7</gml:pos>
+        <gml:pos>33.4 149.6</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>4</dt:class>
@@ -862,34 +482,14 @@
     <updated>2025-07-06T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070618&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T18:00:00+00:00, Typhoon 202503 (MUN) is located at (33.8N, 149.7E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T18:00:00+00:00, Typhoon 202503 (MUN) is located at (34.0N, 149.7E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
     </content>
-    <geo:lat>33.8</geo:lat>
+    <geo:lat>34.0</geo:lat>
     <geo:long>149.7</geo:long>
-    <georss:point>33.8 149.7</georss:point>
+    <georss:point>34.0 149.7</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>33.8 149.7</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>990</dt:pressure>
-    <dt:wind mps="25">50</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-06T21:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-06 21:00 UTC</title>
-    <updated>2025-07-06T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070621&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-06T21:00:00+00:00, Typhoon 202503 (MUN) is located at (33.9N, 149.7E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
-    </content>
-    <geo:lat>33.9</geo:lat>
-    <geo:long>149.7</geo:long>
-    <georss:point>33.9 149.7</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>33.9 149.7</gml:pos>
+        <gml:pos>34.0 149.7</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>4</dt:class>
@@ -902,39 +502,19 @@
     <updated>2025-07-07T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070700&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T00:00:00+00:00, Typhoon 202503 (MUN) is located at (34.8N, 148.7E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T00:00:00+00:00, Typhoon 202503 (MUN) is located at (34.8N, 148.9E) with the central pressure of 992 hPa and the maximum wind speed of 45 kt. </div>
     </content>
     <geo:lat>34.8</geo:lat>
-    <geo:long>148.7</geo:long>
-    <georss:point>34.8 148.7</georss:point>
+    <geo:long>148.9</geo:long>
+    <georss:point>34.8 148.9</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>34.8 148.7</gml:pos>
+        <gml:pos>34.8 148.9</gml:pos>
       </gml:Point>
     </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>990</dt:pressure>
-    <dt:wind mps="25">50</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-07T03:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-07 03:00 UTC</title>
-    <updated>2025-07-07T03:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070703&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T03:00:00+00:00, Typhoon 202503 (MUN) is located at (35.3N, 148.5E) with the central pressure of 990 hPa and the maximum wind speed of 50 kt. </div>
-    </content>
-    <geo:lat>35.3</geo:lat>
-    <geo:long>148.5</geo:long>
-    <georss:point>35.3 148.5</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>35.3 148.5</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>4</dt:class>
-    <dt:pressure>990</dt:pressure>
-    <dt:wind mps="25">50</dt:wind>
+    <dt:class>3</dt:class>
+    <dt:pressure>992</dt:pressure>
+    <dt:wind mps="22">45</dt:wind>
   </entry>
   <entry>
     <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-07T06:00:00+00:00</id>
@@ -957,59 +537,19 @@
     <dt:wind mps="20">40</dt:wind>
   </entry>
   <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-07T09:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-07 09:00 UTC</title>
-    <updated>2025-07-07T09:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070709&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T09:00:00+00:00, Typhoon 202503 (MUN) is located at (36.2N, 148.0E) with the central pressure of 996 hPa and the maximum wind speed of 40 kt. </div>
-    </content>
-    <geo:lat>36.2</geo:lat>
-    <geo:long>148.0</geo:long>
-    <georss:point>36.2 148.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>36.2 148.0</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>996</dt:pressure>
-    <dt:wind mps="20">40</dt:wind>
-  </entry>
-  <entry>
     <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-07T12:00:00+00:00</id>
     <title>Typhoon 202503 (MUN) : 2025-07-07 12:00 UTC</title>
     <updated>2025-07-07T12:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070712&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T12:00:00+00:00, Typhoon 202503 (MUN) is located at (36.6N, 148.0E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T12:00:00+00:00, Typhoon 202503 (MUN) is located at (36.7N, 148.0E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
     </content>
-    <geo:lat>36.6</geo:lat>
+    <geo:lat>36.7</geo:lat>
     <geo:long>148.0</geo:long>
-    <georss:point>36.6 148.0</georss:point>
+    <georss:point>36.7 148.0</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>36.6 148.0</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-07T15:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-07 15:00 UTC</title>
-    <updated>2025-07-07T15:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070715&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T15:00:00+00:00, Typhoon 202503 (MUN) is located at (37.3N, 148.0E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>37.3</geo:lat>
-    <geo:long>148.0</geo:long>
-    <georss:point>37.3 148.0</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>37.3 148.0</gml:pos>
+        <gml:pos>36.7 148.0</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -1022,34 +562,14 @@
     <updated>2025-07-07T18:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070718&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T18:00:00+00:00, Typhoon 202503 (MUN) is located at (38.0N, 148.1E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T18:00:00+00:00, Typhoon 202503 (MUN) is located at (38.1N, 148.2E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
     </content>
-    <geo:lat>38.0</geo:lat>
-    <geo:long>148.1</geo:long>
-    <georss:point>38.0 148.1</georss:point>
+    <geo:lat>38.1</geo:lat>
+    <geo:long>148.2</geo:long>
+    <georss:point>38.1 148.2</georss:point>
     <georss:where>
       <gml:Point>
-        <gml:pos>38.0 148.1</gml:pos>
-      </gml:Point>
-    </georss:where>
-    <dt:class>3</dt:class>
-    <dt:pressure>998</dt:pressure>
-    <dt:wind mps="17">35</dt:wind>
-  </entry>
-  <entry>
-    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-07T21:00:00+00:00</id>
-    <title>Typhoon 202503 (MUN) : 2025-07-07 21:00 UTC</title>
-    <updated>2025-07-07T21:00:00+00:00</updated>
-    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070721&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-07T21:00:00+00:00, Typhoon 202503 (MUN) is located at (38.6N, 148.5E) with the central pressure of 998 hPa and the maximum wind speed of 35 kt. </div>
-    </content>
-    <geo:lat>38.6</geo:lat>
-    <geo:long>148.5</geo:long>
-    <georss:point>38.6 148.5</georss:point>
-    <georss:where>
-      <gml:Point>
-        <gml:pos>38.6 148.5</gml:pos>
+        <gml:pos>38.1 148.2</gml:pos>
       </gml:Point>
     </georss:where>
     <dt:class>3</dt:class>
@@ -1062,7 +582,7 @@
     <updated>2025-07-08T00:00:00+00:00</updated>
     <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070800&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-08T00:00:00+00:00, Typhoon 202503 (MUN) is located at (39.0N, 149.0E) with the central pressure of 998 hPa and the maximum wind speed of 0 kt. </div>
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-08T00:00:00+00:00, Typhoon 202503 (MUN) is located at (39.0N, 149.0E) with the central pressure of 1002 hPa and the maximum wind speed of 0 kt. </div>
     </content>
     <geo:lat>39.0</geo:lat>
     <geo:long>149.0</geo:long>
@@ -1073,7 +593,247 @@
       </gml:Point>
     </georss:where>
     <dt:class>6</dt:class>
+    <dt:pressure>1002</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-08T06:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-08 06:00 UTC</title>
+    <updated>2025-07-08T06:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070806&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-08T06:00:00+00:00, Typhoon 202503 (MUN) is located at (40.7N, 150.4E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>40.7</geo:lat>
+    <geo:long>150.4</geo:long>
+    <georss:point>40.7 150.4</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>40.7 150.4</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>1004</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-08T12:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-08 12:00 UTC</title>
+    <updated>2025-07-08T12:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070812&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-08T12:00:00+00:00, Typhoon 202503 (MUN) is located at (45.5N, 155.3E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>45.5</geo:lat>
+    <geo:long>155.3</geo:long>
+    <georss:point>45.5 155.3</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>45.5 155.3</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>1004</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-08T18:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-08 18:00 UTC</title>
+    <updated>2025-07-08T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070818&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-08T18:00:00+00:00, Typhoon 202503 (MUN) is located at (46.3N, 157.1E) with the central pressure of 1000 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>46.3</geo:lat>
+    <geo:long>157.1</geo:long>
+    <georss:point>46.3 157.1</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>46.3 157.1</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>1000</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-09T00:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-09 00:00 UTC</title>
+    <updated>2025-07-09T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070900&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-09T00:00:00+00:00, Typhoon 202503 (MUN) is located at (46.6N, 161.9E) with the central pressure of 998 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>46.6</geo:lat>
+    <geo:long>161.9</geo:long>
+    <georss:point>46.6 161.9</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>46.6 161.9</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
     <dt:pressure>998</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-09T06:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-09 06:00 UTC</title>
+    <updated>2025-07-09T06:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070906&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-09T06:00:00+00:00, Typhoon 202503 (MUN) is located at (47.1N, 164.5E) with the central pressure of 996 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>47.1</geo:lat>
+    <geo:long>164.5</geo:long>
+    <georss:point>47.1 164.5</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>47.1 164.5</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>996</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-09T12:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-09 12:00 UTC</title>
+    <updated>2025-07-09T12:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070912&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-09T12:00:00+00:00, Typhoon 202503 (MUN) is located at (47.3N, 166.2E) with the central pressure of 996 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>47.3</geo:lat>
+    <geo:long>166.2</geo:long>
+    <georss:point>47.3 166.2</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>47.3 166.2</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>996</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-09T18:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-09 18:00 UTC</title>
+    <updated>2025-07-09T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925070918&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-09T18:00:00+00:00, Typhoon 202503 (MUN) is located at (47.6N, 167.3E) with the central pressure of 994 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>47.6</geo:lat>
+    <geo:long>167.3</geo:long>
+    <georss:point>47.6 167.3</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>47.6 167.3</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>994</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-10T00:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-10 00:00 UTC</title>
+    <updated>2025-07-10T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925071000&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-10T00:00:00+00:00, Typhoon 202503 (MUN) is located at (47.5N, 168.8E) with the central pressure of 996 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>47.5</geo:lat>
+    <geo:long>168.8</geo:long>
+    <georss:point>47.5 168.8</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>47.5 168.8</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>996</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-10T06:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-10 06:00 UTC</title>
+    <updated>2025-07-10T06:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925071006&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-10T06:00:00+00:00, Typhoon 202503 (MUN) is located at (47.4N, 170.6E) with the central pressure of 998 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>47.4</geo:lat>
+    <geo:long>170.6</geo:long>
+    <georss:point>47.4 170.6</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>47.4 170.6</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>998</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-10T12:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-10 12:00 UTC</title>
+    <updated>2025-07-10T12:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925071012&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-10T12:00:00+00:00, Typhoon 202503 (MUN) is located at (47.1N, 173.4E) with the central pressure of 1000 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>47.1</geo:lat>
+    <geo:long>173.4</geo:long>
+    <georss:point>47.1 173.4</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>47.1 173.4</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>1000</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-10T18:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-10 18:00 UTC</title>
+    <updated>2025-07-10T18:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925071018&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-10T18:00:00+00:00, Typhoon 202503 (MUN) is located at (47.0N, 177.1E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>47.0</geo:lat>
+    <geo:long>177.1</geo:long>
+    <georss:point>47.0 177.1</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>47.0 177.1</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>1004</dt:pressure>
+    <dt:wind mps="0">0</dt:wind>
+  </entry>
+  <entry>
+    <id>tag:digital-typhoon.org,2025:track/wnp/202503/en/2025-07-11T00:00:00+00:00</id>
+    <title>Typhoon 202503 (MUN) : 2025-07-11 00:00 UTC</title>
+    <updated>2025-07-11T00:00:00+00:00</updated>
+    <link rel="alternate" type="text/html" hreflang="en" href="https://agora.ex.nii.ac.jp/cgi-bin/dt/single2.pl?prefix=HMW925071100&amp;id=202503&amp;basin=wnp&amp;lang=en"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">According to Japan Meteorological Agency as of 2025-07-11T00:00:00+00:00, Typhoon 202503 (MUN) is located at (47.9N, 183.3E) with the central pressure of 1004 hPa and the maximum wind speed of 0 kt. </div>
+    </content>
+    <geo:lat>47.9</geo:lat>
+    <geo:long>183.3</geo:long>
+    <georss:point>47.9 183.3</georss:point>
+    <georss:where>
+      <gml:Point>
+        <gml:pos>47.9 183.3</gml:pos>
+      </gml:Point>
+    </georss:where>
+    <dt:class>6</dt:class>
+    <dt:pressure>1004</dt:pressure>
     <dt:wind mps="0">0</dt:wind>
   </entry>
 </feed>
